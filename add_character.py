@@ -1,22 +1,7 @@
-import csv
 import json
+from utils import *
 
-chinese_notes_filename = 'chinese_notes.json'
 
-def load_chinese_notes():
-    with open(chinese_notes_filename) as data:
-	    return json.load(data)
- 
-def extract_existing_characters(chinese_notes):
-    existing_characters = set()
-    for pinyin in chinese_notes:
-        for character in chinese_notes[pinyin]:
-            existing_characters.add(character)
-    return list(existing_characters)
-    
-def is_yes(option):
-    return option.lower() == 'y' or option.lower == 'yes'
-    
 def add_character(new_entry, existing_characters):
     while True:
         print('Which character do you want to add?')
@@ -63,8 +48,7 @@ def do_add_entry(chinese_notes, new_entry):
     else:
         chinese_notes[new_entry['pinyin']] = { new_entry['character'] : new_entry_value}
         
-    with open(chinese_notes_filename, 'w') as file:
-        file.write(json.dumps(chinese_notes, indent=4, ensure_ascii=False, sort_keys=True))
+    save_file(chinese_notes)
        
                
 chinese_notes = load_chinese_notes()
