@@ -1,2 +1,2 @@
 # chinese
-Chinese language learning tools
+Chinese language learning notes + tools

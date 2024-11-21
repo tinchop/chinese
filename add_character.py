@@ -1,8 +1,10 @@
 import csv
 import json
 
+chinese_notes_filename = 'chinese_notes.json'
+
 def load_chinese_notes():
-    with open('chinese_notes.json') as data:
+    with open(chinese_notes_filename) as data:
 	    return json.load(data)
  
 def extract_existing_characters(chinese_notes):
@@ -60,7 +62,9 @@ def do_add_entry(chinese_notes, new_entry):
         chinese_notes[new_entry['pinyin']][new_entry['character']] = new_entry_value
     else:
         chinese_notes[new_entry['pinyin']] = { new_entry['character'] : new_entry_value}
-    print(chinese_notes[new_entry['pinyin']])
+        
+    with open(chinese_notes_filename, 'w') as file:
+        file.write(json.dumps(chinese_notes, indent=4, ensure_ascii=False, sort_keys=True))
        
                
 chinese_notes = load_chinese_notes()
