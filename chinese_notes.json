@@ -149,7 +149,8 @@
         },
         "程": {
             "examples": [
-                "程序員"
+                "程序員　／　programador",
+                "工程師"
             ]
         }
     },
@@ -266,7 +267,8 @@
         "餐": {
             "examples": [
                 "餐廳",
-                "餐廳在哪裏？"
+                "餐廳在哪裏？",
+                "點餐　/　order food"
             ]
         }
     },
@@ -317,8 +319,9 @@
             "examples": [
                 "一點",
                 "一點點",
-                "甜點",
-                "今天的甜點是巧克力。"
+                "甜點　／　postre",
+                "今天的甜點是巧克力。",
+                "點餐　/　order food"
             ],
             "simplified": "点"
         }
@@ -1504,6 +1507,14 @@
             ]
         }
     },
+    "quán": {
+        "全": {
+            "examples": [
+                "全家",
+                "全家便利商店　/　FamilyMart"
+            ]
+        }
+    },
     "qì": {
         "氣": {
             "examples": [
@@ -1618,6 +1629,14 @@
             ]
         }
     },
+    "róu": {
+        "柔": {
+            "examples": [
+                "超柔　/　super soft",
+                "超柔抽取式衛生紙　/　super soft tissue paper that you extract from the package"
+            ]
+        }
+    },
     "rù": {
         "入": {
             "examples": [
@@ -1708,6 +1727,11 @@
                 "我去中國超市買菜。",
                 "城市",
                 "高雄市"
+            ]
+        },
+        "式": {
+            "examples": [
+                "中式　/　Chinese style"
             ]
         },
         "視": {
@@ -1906,6 +1930,13 @@
             "simplified": "松"
         }
     },
+    "tián": {
+        "甜": {
+            "examples": [
+                "甜點　/　postre"
+            ]
+        }
+    },
     "tiáo": {
         "條": {
             "examples": [
@@ -2056,6 +2087,14 @@
                 "你很好玩！",
                 "臺灣好玩嗎？"
             ]
+        }
+    },
+    "wèi": {
+        "衛": {
+            "examples": [
+                "衛生紙　/　toilet paper"
+            ],
+            "simplified": "卫"
         }
     },
     "wèn": {
@@ -2691,7 +2730,8 @@
         "紙": {
             "examples": [
                 "報紙",
-                "你看了今天的報紙嗎？"
+                "你看了今天的報紙嗎？",
+                "衛生紙　/　toilet paper"
             ],
             "simplified": "纸"
         }
