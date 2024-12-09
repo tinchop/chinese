@@ -50,15 +50,17 @@ def do_add_entry(chinese_notes, new_entry):
         
     save_file(chinese_notes)
        
+def init_new_entry():
+    return {
+        "character": None,
+        "simplified": None,
+        "pinyin": None,
+        "examples": []
+    }
                
 chinese_notes = load_chinese_notes()
 existing_characters = extract_existing_characters(chinese_notes)
-new_entry = {
-    "character": None,
-    "simplified": None,
-    "pinyin": None,
-    "examples": []
-}
+new_entry = init_new_entry()
 
 while True:
 
@@ -74,4 +76,5 @@ while True:
         do_add_entry(chinese_notes, new_entry)
         print('New character added!')
         break
+    new_entry = init_new_entry()
     print('Let\'s start again then!')
