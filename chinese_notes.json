@@ -215,6 +215,14 @@
             "simplified": "产"
         }
     },
+    "chǒng": {
+        "寵": {
+            "examples": [
+                "寵物　/　pet"
+            ],
+            "simplified": "宠"
+        }
+    },
     "cuò": {
         "錯": {
             "examples": [
@@ -1075,6 +1083,14 @@
             ]
         }
     },
+    "kē": {
+        "科": {
+            "examples": [
+                "科學　/　science",
+                "電腦科學"
+            ]
+        }
+    },
     "kě": {
         "可": {
             "examples": [
@@ -1214,6 +1230,14 @@
         "路": {
             "examples": [
                 "三多三路　/　Sanduo 3rd road"
+            ]
+        }
+    },
+    "lā": {
+        "拉": {
+            "examples": [
+                "謝拉",
+                "拉開門"
             ]
         }
     },
@@ -2057,6 +2081,14 @@
             "simplified": "铁"
         }
     },
+    "tuī": {
+        "推": {
+            "examples": [
+                "推開　/　empujar puerta para abrirla",
+                "推車　/　carrito de supermercado"
+            ]
+        }
+    },
     "tài": {
         "太": {
             "examples": [
@@ -2220,6 +2252,12 @@
             "examples": [
                 "請勿",
                 "請勿吸煙　/　please don't smoke"
+            ]
+        },
+        "物": {
+            "examples": [
+                "寵物　/　pet",
+                "植物　/　plant"
             ]
         }
     },
@@ -2800,6 +2838,13 @@
                 "我正在學習漢語。",
                 "你正在做什麼？",
                 "我正在工作。"
+            ]
+        }
+    },
+    "zhí": {
+        "植": {
+            "examples": [
+                "植物　/　plant"
             ]
         }
     },
