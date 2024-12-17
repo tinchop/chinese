@@ -44,7 +44,7 @@ while True:
     
     print('\n')
     print('Show another character?')
-    print('Yes/No?')
+    print('1) Yes, 2) No')
     
     if not is_yes(input()):
         break

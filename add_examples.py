@@ -27,7 +27,7 @@ while True:
         while True:
             add_example(character, chinese_notes)
             print('Would you like to add another example?')
-            print('Yes/No?')
+            print('1) Yes, 2) No')
             if not is_yes(input()):
                 save_file(chinese_notes)
                 examples_added = True

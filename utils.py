@@ -36,7 +36,8 @@ def get_tone(pinyin):
     return 'white'
 
 def is_yes(option):
-    return option.lower() == 'y' or option.lower == 'yes'
+    option = option.strip().lower()
+    return option == 'y' or option == 'yes' or option == '1' or option == '１'
 
 def save_file(chinese_notes):
     with open(chinese_notes_filename, 'w') as file:

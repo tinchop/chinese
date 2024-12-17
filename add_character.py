@@ -25,14 +25,14 @@ def add_pinyin(new_entry):
          
 def add_examples(new_entry):
     print('Do you want to add an example?')
-    print('Yes/No?')
+    print('1) Yes, 2) No')
     if is_yes(input()):
         print('Add example:')
         new_entry['examples'].append(input())
         
         while True:
             print('Would you like to add another example?')
-            print('Yes/No?')
+            print('1) Yes, 2) No')
             if is_yes(input()):
                 print('Add example:')
                 new_entry['examples'].append(input())
@@ -71,7 +71,7 @@ while True:
 
     print('Please verify the entry is correct:')
     print(json.dumps(new_entry, indent=4, ensure_ascii=False))
-    print('Yes/No?')
+    print('1) Yes, 2) No')
     if is_yes(input()):
         do_add_entry(chinese_notes, new_entry)
         print('New character added!')
