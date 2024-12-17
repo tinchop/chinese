@@ -1,8 +1,19 @@
 import json, random, os
 from utils import *
+from termcolor import colored
 
 chinese_notes = load_chinese_notes()
 existing_characters = extract_existing_characters(chinese_notes)
+character_to_tone_dict = create_character_to_tone_dict(chinese_notes)
+
+def print_example(example):
+    colored_example = ''
+    for letter in example:
+        colored_example += get_colored_character(letter)
+    print(colored_example)
+    
+def get_colored_character(character):
+    return colored(character, character_to_tone_dict.get(character, 'white'))
 
 while True:
     os.system('clear')
@@ -17,11 +28,17 @@ while True:
             if char == character:
                 print('\n')
                 print('\n')
-                print(character)
-                print('\n')
+                print(get_colored_character(character))
                 print(pinyin)
                 print('\n')
-                print(json.dumps(chinese_notes[pinyin][character], indent=4, ensure_ascii=False))
+                
+                if 'simplified' in chinese_notes[pinyin][character]:
+                    print('Simplified: ' + chinese_notes[pinyin][character]['simplified'])
+                    print('\n')
+                
+                for example in chinese_notes[pinyin][character]['examples']:
+                    print_example(example)
+                
                 character_found = True
                 break
     
