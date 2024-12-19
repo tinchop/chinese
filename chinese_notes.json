@@ -661,8 +661,9 @@
     "gào": {
         "告": {
             "examples": [
-                "告訴",
-                "我會告訴你什麼時候有空。"
+                "告訴　／　tell, let know",
+                "我會告訴你什麼時候有空。",
+                "公告　／　announcement　"
             ]
         }
     },
@@ -1538,7 +1539,9 @@
         "難": {
             "examples": [
                 "我覺得中文不難。",
-                "難看"
+                "難看",
+                "難過",
+                "我不開心，我很難過。　/　I'm not happy, I'm very sad."
             ],
             "simplified": "难"
         }
@@ -1708,6 +1711,14 @@
             "examples": [
                 "好奇",
                 "學生們都真好奇，他們都問教授好幾個問題。"
+            ]
+        },
+        "旗": {
+            "examples": [
+                "國旗　/　national flag",
+                "魚旗　/　bird flag",
+                "美國國旗　/　American flag",
+                "中國國旗　/　Chinese flag"
             ]
         },
         "騎": {
@@ -2944,7 +2955,8 @@
         "站": {
             "examples": [
                 "地鐵站",
-                "我們在哪個站下車？"
+                "我們在哪個站下車？",
+                "火車站　/　train station"
             ]
         }
     },
