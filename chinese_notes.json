@@ -1477,7 +1477,8 @@
             "examples": [
                 "塞翁失馬",
                 "騎馬",
-                "騎自行車"
+                "騎自行車",
+                "塞翁失馬　/　The old man lost his mare (but it all turned out for the best) -- blessing in disguise"
             ],
             "simplified": "马"
         }
@@ -2023,6 +2024,11 @@
         }
     },
     "shī": {
+        "失": {
+            "examples": [
+                "塞翁失馬　/　The old man lost his mare (but it all turned out for the best) -- blessing in disguise"
+            ]
+        },
         "師": {
             "examples": [
                 "老師",
@@ -2407,6 +2413,13 @@
                 "我有好幾個台灣朋友。"
             ],
             "simplified": "湾"
+        }
+    },
+    "wēng": {
+        "翁": {
+            "examples": [
+                "塞翁失馬　/　The old man lost his mare (but it all turned out for the best) -- blessing in disguise"
+            ]
         }
     },
     "wǎn": {
