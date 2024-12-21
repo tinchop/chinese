@@ -23,15 +23,16 @@ def create_character_to_tone_dict(chinese_notes):
             character_to_tone_dict[character] = get_tone(pinyin)
     return character_to_tone_dict
 
+
 def get_tone(pinyin):
     for char in pinyin:
-        if char in ['ā', 'ē', 'ī', 'ō', 'ū']:
+        if char in ['ā', 'ē', 'ī', 'ō', 'ū', 'ǖ']:
             return 'light_red'
-        elif char in ['à', 'è', 'ì', 'ò', 'ù']:
+        elif char in ['à', 'è', 'ì', 'ò', 'ù', 'ǜ']:
             return 'light_blue'
-        elif char in ['ǎ', 'ě', 'ǐ', 'ǒ', 'ǔ']:
+        elif char in ['ǎ', 'ě', 'ǐ', 'ǒ', 'ǔ', 'ǚ']:
             return 'light_green'
-        elif char in ['á', 'é', 'í', 'ó', 'ú']:
+        elif char in ['á', 'é', 'í', 'ó', 'ú', 'ǘ']:
             return 'light_yellow'
     return 'white'
 
