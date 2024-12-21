@@ -563,6 +563,14 @@
             ]
         }
     },
+    "fān": {
+        "番": {
+            "examples": [
+                "番茄　/　tomate",
+                "番茄醬　/　ketchup"
+            ]
+        }
+    },
     "fēi": {
         "啡": {
             "examples": [
@@ -899,6 +907,12 @@
         }
     },
     "jiàng": {
+        "醬": {
+            "examples": [
+                "番茄醬　/　ketchup"
+            ],
+            "simplified": "酱"
+        },
         "降": {
             "examples": [
                 "升降機　/　elevator"
@@ -969,6 +983,11 @@
             "examples": [
                 "焦糖",
                 "焦糖拿鐵"
+            ]
+        },
+        "蕉": {
+            "examples": [
+                "香蕉　/　banana"
             ]
         }
     },
@@ -1384,7 +1403,8 @@
         "麵": {
             "examples": [
                 "麵條",
-                "麵包"
+                "麵包",
+                "意大利麵　/　spaghetti"
             ],
             "simplified": "面"
         }
@@ -1688,6 +1708,14 @@
                 "我有八毛錢。"
             ],
             "simplified": "钱"
+        }
+    },
+    "qié": {
+        "茄": {
+            "examples": [
+                "番茄　/　tomate",
+                "番茄醬　/　ketchup"
+            ]
         }
     },
     "qiú": {
@@ -2513,6 +2541,13 @@
         "先": {
             "examples": [
                 "先生"
+            ]
+        }
+    },
+    "xiāng": {
+        "香": {
+            "examples": [
+                "香蕉　/　banana"
             ]
         }
     },
