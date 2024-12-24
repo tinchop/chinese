@@ -847,6 +847,13 @@
             "simplified": "后"
         }
     },
+    "hē": {
+        "喝": {
+            "examples": [
+                "再喝一杯咖啡，怎麼樣？"
+            ]
+        }
+    },
     "hēi": {
         "嗨": {
             "examples": [
@@ -1121,6 +1128,11 @@
         }
     },
     "kè": {
+        "克": {
+            "examples": [
+                "巧克力"
+            ]
+        },
         "客": {
             "examples": [
                 "客廳",
@@ -1278,6 +1290,16 @@
             "simplified": "蓝"
         }
     },
+    "lè": {
+        "樂": {
+            "examples": [
+                "快樂",
+                "可樂",
+                "家樂福　/　Carrefour"
+            ],
+            "simplified": "乐"
+        }
+    },
     "lèi": {
         "累": {
             "examples": [
@@ -1291,6 +1313,11 @@
             "examples": [
                 "順利",
                 "祝你順利。"
+            ]
+        },
+        "力": {
+            "examples": [
+                "巧克力"
             ]
         }
     },
@@ -1725,6 +1752,13 @@
                 "打籃球",
                 "足球",
                 "乒乓球"
+            ]
+        }
+    },
+    "qiǎo": {
+        "巧": {
+            "examples": [
+                "巧克力"
             ]
         }
     },
@@ -2423,6 +2457,15 @@
             "simplified": "为"
         }
     },
+    "wén": {
+        "文": {
+            "examples": [
+                "中文",
+                "文學　/　literature",
+                "語文　/　language, language arts (as a subject of study in primary and secondary education); language and literature"
+            ]
+        }
+    },
     "wù": {
         "勿": {
             "examples": [
@@ -2467,7 +2510,8 @@
                 "晚上",
                 "晚安！",
                 "晚安，好夢！",
-                "昨天晚上他很晚睡覺。"
+                "昨天晚上他很晚睡覺。",
+                "昨晚　/　last night"
             ]
         },
         "碗": {
@@ -2774,6 +2818,12 @@
                 "月台　/　plataforma, por ejemplo en el tren"
             ]
         },
+        "樂": {
+            "examples": [
+                "音樂　/　music"
+            ],
+            "simplified": "乐"
+        },
         "越": {
             "examples": [
                 "越南",
@@ -2928,6 +2978,11 @@
                 "今天是陰天。"
             ],
             "simplified": "阴"
+        },
+        "音": {
+            "examples": [
+                "音樂　/　music"
+            ]
         }
     },
     "yīng": {
@@ -3218,7 +3273,8 @@
             "examples": [
                 "昨天",
                 "昨天",
-                "昨天的電影怎麼樣？"
+                "昨天的電影怎麼樣？",
+                "昨晚　/　last night"
             ]
         }
     },
