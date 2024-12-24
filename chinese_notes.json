@@ -549,7 +549,8 @@
         "放": {
             "examples": [
                 "放假　/　to have a holiday; to be on vacation",
-                "下個星期我放假。"
+                "下個星期我放假。",
+                "放輕鬆　/　relax, take it easy"
             ]
         }
     },
@@ -991,6 +992,12 @@
                 "焦糖",
                 "焦糖拿鐵"
             ]
+        },
+        "膠": {
+            "examples": [
+                "塑膠　/　plastic"
+            ],
+            "simplified": "胶"
         },
         "蕉": {
             "examples": [
@@ -1838,7 +1845,8 @@
         "輕": {
             "examples": [
                 "我想輕鬆一下。",
-                "今天他不忙，他很輕鬆。"
+                "今天他不忙，他很輕鬆。",
+                "放輕鬆　/　relax, take it easy"
             ],
             "simplified": "轻"
         }
@@ -2202,6 +2210,11 @@
         }
     },
     "sù": {
+        "塑": {
+            "examples": [
+                "塑膠　/　plastic"
+            ]
+        },
         "宿": {
             "examples": [
                 "宿舍",
@@ -2221,7 +2234,8 @@
         "鬆": {
             "examples": [
                 "我想輕鬆一下。",
-                "今天他不忙，他很輕鬆。"
+                "今天他不忙，他很輕鬆。",
+                "放輕鬆　/　relax, take it easy"
             ],
             "simplified": "松"
         }
@@ -2717,6 +2731,11 @@
         }
     },
     "xī": {
+        "吸": {
+            "examples": [
+                "吸菸　/　fumar"
+            ]
+        },
         "希": {
             "examples": [
                 "希望",
@@ -2962,6 +2981,13 @@
         "雲": {
             "examples": [],
             "simplified": "云"
+        }
+    },
+    "yān": {
+        "菸": {
+            "examples": [
+                "吸菸　/　fumar"
+            ]
         }
     },
     "yīn": {
