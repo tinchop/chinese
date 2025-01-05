@@ -55,6 +55,14 @@
             ]
         }
     },
+    "bí": {
+        "鼻": {
+            "examples": [
+                "鼻子　/　nose",
+                "我的鼻子很疼。"
+            ]
+        }
+    },
     "bó": {
         "柏": {
             "examples": [
@@ -1780,6 +1788,13 @@
             ]
         }
     },
+    "qing": {
+        "情": {
+            "examples": [
+                "昨天你有什麼事情？"
+            ]
+        }
+    },
     "qiàn": {
         "歉": {
             "examples": [
@@ -2131,8 +2146,9 @@
                 "明天您有時間嗎？",
                 "我沒有時間玩電腦遊戲。",
                 "對不起，我現在沒有時間。",
-                "小時",
-                "同時"
+                "小時　／　hora",
+                "同時　／　at the same time",
+                "時常　／　often, frequently"
             ],
             "simplified": "时"
         }
@@ -2419,6 +2435,13 @@
             ]
         }
     },
+    "téng": {
+        "疼": {
+            "examples": [
+                "我的鼻子很疼。　/　my nose hurts"
+            ]
+        }
+    },
     "tí": {
         "題": {
             "examples": [
@@ -2530,6 +2553,11 @@
         }
     },
     "wèi": {
+        "味": {
+            "examples": [
+                "味道　/　taste, flavour, smell"
+            ]
+        },
         "衛": {
             "examples": [
                 "衛生紙　/　toilet paper"
@@ -2979,6 +3007,14 @@
             "simplified": "样"
         }
     },
+    "yào": {
+        "藥": {
+            "examples": [
+                "你吃的是什麼藥?　/　what medicine did you take?"
+            ],
+            "simplified": "药"
+        }
+    },
     "yán": {
         "言": {
             "examples": [
@@ -3368,7 +3404,8 @@
                 "包子",
                 "肉包子",
                 "肚子",
-                "刀子"
+                "刀子",
+                "鼻子　/　nariz"
             ]
         }
     },
