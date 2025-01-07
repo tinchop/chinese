@@ -182,7 +182,7 @@
     "chéng": {
         "成": {
             "examples": [
-                "城市"
+                "城市　／　city, town, municipality"
             ]
         },
         "程": {
@@ -594,6 +594,14 @@
                 "這個週末我去我的家人的房子。",
                 "廚房",
                 "你的廚房很大。"
+            ]
+        }
+    },
+    "fú": {
+        "福": {
+            "examples": [
+                "祝福　/　blessing",
+                "家樂福　/　Carrefour"
             ]
         }
     },
@@ -1049,6 +1057,13 @@
             ]
         }
     },
+    "jiē": {
+        "街": {
+            "examples": [
+                "過街　/　cross the street"
+            ]
+        }
+    },
     "jiǎn": {
         "柬": {
             "examples": [
@@ -1419,7 +1434,8 @@
     "lù": {
         "路": {
             "examples": [
-                "三多三路　/　Sanduo 3rd road"
+                "三多三路　/　Sanduo 3rd road",
+                "走路　/　walk, go on foot"
             ]
         }
     },
@@ -3501,6 +3517,14 @@
                 "早上好！",
                 "早飯",
                 "我們八點喫早飯。"
+            ]
+        }
+    },
+    "zǒu": {
+        "走": {
+            "examples": [
+                "走路　/　walk, go on foot",
+                "我很累，不想走路。"
             ]
         }
     },
