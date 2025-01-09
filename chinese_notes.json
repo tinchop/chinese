@@ -337,6 +337,14 @@
             "simplified": "聪"
         }
     },
+    "cǎo": {
+        "草": {
+            "examples": [
+                "草莓　/　strawberry",
+                "草莓冰淇淋　/　strawberry icecream"
+            ]
+        }
+    },
     "de": {
         "得": {
             "examples": [
@@ -1554,6 +1562,12 @@
                 "沒關係。"
             ],
             "simplified": "没"
+        },
+        "莓": {
+            "examples": [
+                "草莓　/　strawberry",
+                "草莓冰淇淋　/　strawberry icecream"
+            ]
         }
     },
     "míng": {
