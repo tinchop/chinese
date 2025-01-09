@@ -185,6 +185,11 @@
                 "城市　／　city, town, municipality"
             ]
         },
+        "橙": {
+            "examples": [
+                "橙色　/　orange (color)"
+            ]
+        },
         "程": {
             "examples": [
                 "程序員　／　programador",
@@ -829,6 +834,13 @@
             "simplified": "华"
         }
     },
+    "huáng": {
+        "黃": {
+            "examples": [
+                "黃色　/　yellow color"
+            ]
+        }
+    },
     "huí": {
         "回": {
             "examples": [
@@ -906,6 +918,14 @@
                 "打球後學生們都來餐廳休息一下。"
             ],
             "simplified": "后"
+        }
+    },
+    "hóng": {
+        "紅": {
+            "examples": [
+                "紅色　/　red color"
+            ],
+            "simplified": "红"
         }
     },
     "hē": {
@@ -1795,6 +1815,13 @@
             ]
         }
     },
+    "pī": {
+        "披": {
+            "examples": [
+                "披薩　/　pizza"
+            ]
+        }
+    },
     "pīng": {
         "乒": {
             "examples": [
@@ -2325,6 +2352,14 @@
                 "所以",
                 "我不喜歡水，所以我不游泳。"
             ]
+        }
+    },
+    "sà": {
+        "薩": {
+            "examples": [
+                "披薩　/　pizza"
+            ],
+            "simplified": "萨"
         }
     },
     "sàn": {
