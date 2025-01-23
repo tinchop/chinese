@@ -442,6 +442,14 @@
             ]
         }
     },
+    "dàn": {
+        "蛋": {
+            "examples": [
+                "雞蛋　/　huevo de gallina",
+                "茶葉蛋　/　egg boiled with tea"
+            ]
+        }
+    },
     "dào": {
         "到": {
             "examples": [
@@ -471,7 +479,8 @@
                 "在地鐵裏我們不準喫飯。",
                 "地方",
                 "他不喜歡坐地鐵。",
-                "地震　/　terremoto"
+                "地震　/　terremoto",
+                "地瓜　/　sweet potato"
             ]
         }
     },
@@ -685,6 +694,14 @@
                 "英國"
             ],
             "simplified": "国"
+        }
+    },
+    "guā": {
+        "瓜": {
+            "examples": [
+                "地瓜　/　sweet potato",
+                "西瓜　/　watermelon"
+            ]
         }
     },
     "guān": {
@@ -1037,6 +1054,20 @@
             ]
         }
     },
+    "jié": {
+        "捷": {
+            "examples": [
+                "捷運　/　MRT"
+            ]
+        }
+    },
+    "jiù": {
+        "就": {
+            "examples": [
+                "這是就爲什麼我喜歡臺灣。　/　this is why I like Taiwan"
+            ]
+        }
+    },
     "jiā": {
         "加": {
             "examples": [
@@ -1297,6 +1328,14 @@
                 "科學　/　science",
                 "電腦科學"
             ]
+        },
+        "顆": {
+            "examples": [
+                "一顆茶葉蛋",
+                "一顆咖啡豆",
+                "一顆蘋果"
+            ],
+            "simplified": "颗"
         }
     },
     "kě": {
@@ -3041,6 +3080,13 @@
                 "公園"
             ],
             "simplified": "园"
+        },
+        "圓": {
+            "examples": [
+                "肉圓　/　meat ball",
+                "一顆肉圓　／　one meat ball"
+            ],
+            "simplified": "圆"
         }
     },
     "yuè": {
@@ -3469,6 +3515,14 @@
                 "衛生紙　/　toilet paper"
             ],
             "simplified": "纸"
+        }
+    },
+    "zhǒng": {
+        "種": {
+            "examples": [
+                "種子　/　semilla"
+            ],
+            "simplified": "种"
         }
     },
     "zhǔn": {
