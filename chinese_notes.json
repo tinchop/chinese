@@ -495,7 +495,11 @@
                 "地方",
                 "他不喜歡坐地鐵。",
                 "地震　/　terremoto",
-                "地瓜　/　sweet potato"
+                "地瓜　/　sweet potato",
+                "生氣地　/　angrily",
+                "快快地　/　quickly",
+                "慢慢地　/　slowly",
+                "開心地　/　happily"
             ]
         }
     },
@@ -860,6 +864,22 @@
             ]
         }
     },
+    "huà": {
+        "話": {
+            "examples": [
+                "說話　/　speak, say, talk"
+            ],
+            "simplified": "话"
+        }
+    },
+    "huài": {
+        "壞": {
+            "examples": [
+                "你很壞！ => you are bad! (saying in a cute way)"
+            ],
+            "simplified": "坏"
+        }
+    },
     "huá": {
         "華": {
             "examples": [
@@ -920,6 +940,11 @@
         }
     },
     "hái": {
+        "孩": {
+            "examples": [
+                "小孩子　/　nphr. small children, young kids"
+            ]
+        },
         "還": {
             "examples": [
                 "今天還好嗎？"
@@ -1206,6 +1231,14 @@
                 "可以進來嗎？"
             ],
             "simplified": "进"
+        }
+    },
+    "jìng": {
+        "靜": {
+            "examples": [
+                "冷靜 / adj. (of a person) calm, cool-headed, imperturbable"
+            ],
+            "simplified": "静"
         }
     },
     "jù": {
@@ -1563,7 +1596,8 @@
         "冷": {
             "examples": [
                 "今天很冷。",
-                "昨天太冷了。"
+                "昨天太冷了。",
+                "冷靜　/　adj. (of a person) calm, cool-headed, imperturbable"
             ]
         }
     },
@@ -1851,6 +1885,14 @@
             ]
         }
     },
+    "pái": {
+        "排": {
+            "examples": [
+                "牛排　/　steak",
+                "雞排　/　chicken steak"
+            ]
+        }
+    },
     "péng": {
         "朋": {
             "examples": [
@@ -1996,7 +2038,8 @@
         "氣": {
             "examples": [
                 "天氣",
-                "今天天氣怎麼樣？"
+                "今天天氣怎麼樣？",
+                "生氣地　/　angrily"
             ],
             "simplified": "气"
         }
@@ -2163,6 +2206,14 @@
             "examples": [
                 "如果",
                 "如果你去那裏拍照。"
+            ]
+        }
+    },
+    "sheng": {
+        "甥": {
+            "examples": [
+                "外甥　/　nephew",
+                "外甥女　/　niece"
             ]
         }
     },
@@ -2466,6 +2517,11 @@
         "宋": {
             "examples": [
                 "他性宋。"
+            ]
+        },
+        "送": {
+            "examples": [
+                "買一送一　/　buy one get one free"
             ]
         }
     },
