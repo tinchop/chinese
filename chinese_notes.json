@@ -148,6 +148,13 @@
             "simplified": "床"
         }
     },
+    "chuān": {
+        "穿": {
+            "examples": [
+                "今天我穿短褲。　/　Today I'm wearing shorts."
+            ]
+        }
+    },
     "chàng": {
         "唱": {
             "examples": [
@@ -426,6 +433,14 @@
             ]
         }
     },
+    "duǎn": {
+        "短": {
+            "examples": [
+                "短褲　/　shorts",
+                "現在我穿短褲。　/　I'm wearing shorts now"
+            ]
+        }
+    },
     "dà": {
         "大": {
             "examples": [
@@ -503,7 +518,8 @@
     "dù": {
         "度": {
             "examples": [
-                "印度"
+                "印度",
+                "震度　/　earthquake intensity"
             ]
         }
     },
@@ -967,6 +983,13 @@
             ]
         }
     },
+    "hōng": {
+        "烘": {
+            "examples": [
+                "紅衣服　/　dry clothes"
+            ]
+        }
+    },
     "hǎi": {
         "海": {
             "examples": [
@@ -1075,6 +1098,12 @@
                 "我不要加糖。",
                 "加油加油！"
             ]
+        },
+        "夾": {
+            "examples": [
+                "夾克　/　jacket"
+            ],
+            "simplified": "夹"
         },
         "家": {
             "examples": [
@@ -1285,7 +1314,9 @@
         "褲": {
             "examples": [
                 "褲子　/　pantalones",
-                "那條褲子太大了。"
+                "那條褲子太大了。",
+                "短褲　/　shorts",
+                "長褲　/　pantalones largos"
             ],
             "simplified": "裤"
         },
@@ -2145,7 +2176,8 @@
     "shuāng": {
         "雙": {
             "examples": [
-                "一雙新鞋子　/　a pair of new shoes"
+                "一雙新鞋子　/　a pair of new shoes",
+                "一雙襪子　/　a pair of socks"
             ],
             "simplified": "双"
         }
@@ -2530,6 +2562,13 @@
                 "太好了！",
                 "不太好",
                 "這個太貴，所以我不買。"
+            ]
+        }
+    },
+    "tào": {
+        "套": {
+            "examples": [
+                "外套　/　topcoat, overcoat; outer garment, loose coat"
             ]
         }
     },
@@ -2983,6 +3022,11 @@
             "examples": [
                 "程序員"
             ]
+        },
+        "恤": {
+            "examples": [
+                "T恤　/　t-shirt"
+            ]
         }
     },
     "xī": {
@@ -3234,6 +3278,12 @@
                 "電腦遊戲",
                 "旅游",
                 "我們會去印度旅遊。"
+            ]
+        },
+        "魷": {
+            "examples": [
+                "魷魚　/　squid",
+                "烤魷魚　/　roasted squid"
             ]
         }
     },
