@@ -11,7 +11,8 @@
     "bài": {
         "拜": {
             "examples": [
-                "禮拜"
+                "禮拜　／　week",
+                "禮拜三　／　Wednesday"
             ]
         }
     },
@@ -305,6 +306,14 @@
                 "對不起，我們麼有英語菜單。",
                 "請問，你有英語菜單嗎？"
             ]
+        }
+    },
+    "cái": {
+        "財": {
+            "examples": [
+                "恭喜發財！　/　phr. Wish you be prosperous, may you get a fortune! (Chinese new year greeting)"
+            ],
+            "simplified": "财"
         }
     },
     "céng": {
@@ -648,6 +657,14 @@
             ]
         }
     },
+    "fā": {
+        "發": {
+            "examples": [
+                "恭喜發財！　/　phr. Wish you be prosperous, may you get a fortune! (Chinese new year greeting)"
+            ],
+            "simplified": "发"
+        }
+    },
     "fān": {
         "番": {
             "examples": [
@@ -843,6 +860,11 @@
                 "工作太多。",
                 "工作太累。",
                 "昨天爲什麼你沒有來工作？"
+            ]
+        },
+        "恭": {
+            "examples": [
+                "恭喜發財！　/　phr. Wish you be prosperous, may you get a fortune! (Chinese new year greeting)"
             ]
         }
     },
@@ -1614,7 +1636,8 @@
     "lǐ": {
         "禮": {
             "examples": [
-                "禮拜"
+                "禮拜　／　week",
+                "禮拜三　／　Wednesday"
             ],
             "simplified": "礼"
         }
@@ -1911,6 +1934,12 @@
         }
     },
     "píng": {
+        "平": {
+            "examples": [
+                "平安　/　adj. safe and well, safe",
+                "祝你一路平安。/ phr. Wish you a safe trip."
+            ]
+        },
         "蘋": {
             "examples": [
                 "蘋果　/　apple"
