@@ -1263,6 +1263,13 @@
             "simplified": "静"
         }
     },
+    "jí": {
+        "吉": {
+            "examples": [
+                "吉隆坡　/　Kuala Lumpur"
+            ]
+        }
+    },
     "jù": {
         "劇": {
             "examples": [
@@ -1516,7 +1523,8 @@
                 "昨天爲什麼你沒有來工作？",
                 "醒來",
                 "起來",
-                "早安！我剛起來。"
+                "早安！我剛起來。",
+                "馬來西亞　/　Malaysia"
             ],
             "simplified": "来"
         }
@@ -1585,6 +1593,13 @@
         "零": {
             "examples": [
                 "二〇二四年"
+            ]
+        }
+    },
+    "lóng": {
+        "隆": {
+            "examples": [
+                "吉隆坡　/　Kuala Lumpur"
             ]
         }
     },
@@ -1977,11 +1992,26 @@
             ]
         }
     },
+    "pīn": {
+        "拼": {
+            "examples": [
+                "拼圖　/　rompecabezas",
+                "拼拼圖　/　armar un rompecabezas"
+            ]
+        }
+    },
     "pīng": {
         "乒": {
             "examples": [
                 "乒乓球",
                 "中國人很喜歡打乒乓球和打籃球。"
+            ]
+        }
+    },
+    "pō": {
+        "坡": {
+            "examples": [
+                "吉隆坡　/　Kuala Lumpur"
             ]
         }
     },
@@ -2724,7 +2754,9 @@
         "圖": {
             "examples": [
                 "圖書館",
-                "我去图书馆学习汉语。"
+                "我去图书馆学习汉语。",
+                "拼圖　/　rompecabezas",
+                "拼拼圖　/　armar un rompecabezas"
             ],
             "simplified": "图"
         }
