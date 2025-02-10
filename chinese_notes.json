@@ -1012,7 +1012,8 @@
     "hóng": {
         "紅": {
             "examples": [
-                "紅色　/　red color"
+                "紅色　/　red color",
+                "紅米　/　red rice"
             ],
             "simplified": "红"
         }
@@ -1827,6 +1828,14 @@
                 "買單"
             ],
             "simplified": "买"
+        }
+    },
+    "mǐ": {
+        "米": {
+            "examples": [
+                "紅米　/　red rice",
+                "米飯　/　cooked rice"
+            ]
         }
     },
     "niàn": {
