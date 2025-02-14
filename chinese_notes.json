@@ -8,6 +8,21 @@
             ]
         }
     },
+    "bié": {
+        "別": {
+            "examples": [
+                "別人　/　pro. others, other people"
+            ]
+        }
+    },
+    "biǎo": {
+        "錶": {
+            "examples": [
+                "手錶　/　reloj"
+            ],
+            "simplified": "表"
+        }
+    },
     "bài": {
         "拜": {
             "examples": [
@@ -1038,7 +1053,9 @@
         "紅": {
             "examples": [
                 "紅色　/　red color",
-                "紅米　/　red rice"
+                "紅米　/　red rice",
+                "紅酒　/　red wine",
+                "我覺得紅酒比啤酒健康。"
             ],
             "simplified": "红"
         }
@@ -1689,7 +1706,8 @@
         "禮": {
             "examples": [
                 "禮拜　／　week",
-                "禮拜三　／　Wednesday"
+                "禮拜三　／　Wednesday",
+                "禮物　/　n. gift, present"
             ],
             "simplified": "礼"
         },
@@ -1744,6 +1762,15 @@
                 "意大利麵　/　spaghetti"
             ],
             "simplified": "面"
+        }
+    },
+    "mài": {
+        "賣": {
+            "examples": [
+                "賣完了　/　sold out",
+                "手錶已經賣完了　/　ya se vendieron todos los relojes."
+            ],
+            "simplified": "卖"
         }
     },
     "màn": {
@@ -2154,6 +2181,13 @@
             "simplified": "签"
         }
     },
+    "qiě": {
+        "且": {
+            "examples": [
+                "而且　/　conj. but also; and (connecting two clauses)"
+            ]
+        }
+    },
     "qiǎo": {
         "巧": {
             "examples": [
@@ -2239,7 +2273,8 @@
             "examples": [
                 "我想輕鬆一下。",
                 "今天他不忙，他很輕鬆。",
-                "放輕鬆　/　relax, take it easy"
+                "放輕鬆　/　relax, take it easy",
+                "年輕人　/　n. young people"
             ],
             "simplified": "轻"
         }
@@ -2601,7 +2636,8 @@
         "手": {
             "examples": [
                 "洗手間",
-                "手機"
+                "手機",
+                "手錶　/　reloj"
             ]
         }
     },
@@ -2975,7 +3011,8 @@
         "物": {
             "examples": [
                 "寵物　/　pet",
-                "植物　/　plant"
+                "植物　/　plant",
+                "禮物　/　n. gift, present"
             ]
         }
     },
@@ -3303,7 +3340,8 @@
             "examples": [
                 "洗手間",
                 "洗手",
-                "洗車"
+                "洗車",
+                "今天我不想洗衣服。"
             ]
         }
     },
@@ -3962,6 +4000,14 @@
             "examples": [
                 "走路　/　walk, go on foot",
                 "我很累，不想走路。"
+            ]
+        }
+    },
+    "ér": {
+        "而": {
+            "examples": [
+                "他不但帥，而且聰明。　/　He is not only handsome but also smart.",
+                "而且　/　conj. but also; and (connecting two clauses)"
             ]
         }
     },
