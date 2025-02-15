@@ -11,7 +11,8 @@
     "bié": {
         "別": {
             "examples": [
-                "別人　/　pro. others, other people"
+                "別人　/　pro. others, other people",
+                "別告訴別人。　/　don't tell other people."
             ]
         }
     },
@@ -56,6 +57,12 @@
         }
     },
     "bì": {
+        "幣": {
+            "examples": [
+                "硬幣　/　coin"
+            ],
+            "simplified": "币"
+        },
         "畢": {
             "examples": [
                 "畢業　／　to graduate",
@@ -144,6 +151,14 @@
                 "冰箱",
                 "冰箱裏有什麼？",
                 "冰淇淋　/　icecream"
+            ]
+        }
+    },
+    "bǐ": {
+        "比": {
+            "examples": [
+                "比賽　/　v./n. compete; match, competition",
+                "比較　/　v./adv. to compare; comparatively, relatively"
             ]
         }
     },
@@ -321,7 +336,8 @@
                 "蔬菜",
                 "菜單",
                 "對不起，我們麼有英語菜單。",
-                "請問，你有英語菜單嗎？"
+                "請問，你有英語菜單嗎？",
+                "生菜　/　lettuce"
             ]
         }
     },
@@ -346,7 +362,8 @@
             "examples": [
                 "這次",
                 "這次我買單。",
-                "下次　/　next time"
+                "下次　/　next time",
+                "一個禮拜三次　/　3 times a week"
             ]
         }
     },
@@ -377,6 +394,12 @@
                 "他很聰明。"
             ],
             "simplified": "聪"
+        },
+        "蔥": {
+            "examples": [
+                "洋蔥　/　onion"
+            ],
+            "simplified": "葱"
         }
     },
     "cǎo": {
@@ -639,6 +662,14 @@
             ]
         }
     },
+    "dǎo": {
+        "島": {
+            "examples": [
+                "島　/　n. island"
+            ],
+            "simplified": "岛"
+        }
+    },
     "dǒng": {
         "懂": {
             "examples": [
@@ -837,6 +868,15 @@
             "simplified": "个"
         }
     },
+    "gòu": {
+        "購": {
+            "examples": [
+                "購物　/　v. go shopping",
+                "購物中心　/　shopping center"
+            ],
+            "simplified": "购"
+        }
+    },
     "gāi": {
         "該": {
             "examples": [
@@ -947,6 +987,14 @@
             "simplified": "坏"
         }
     },
+    "huàn": {
+        "換": {
+            "examples": [
+                "我有一張一百塊，我想換一百個一塊硬幣。"
+            ],
+            "simplified": "换"
+        }
+    },
     "huá": {
         "華": {
             "examples": [
@@ -1044,7 +1092,9 @@
                 "後天",
                 "打球後學生們都來餐廳休息一下。",
                 "然後　/　conj. then, after that, afterward",
-                "我先學習，然後睡覺。"
+                "我先學習，然後睡覺。",
+                "最後　/　adv./n. finally, at last; the last, the ultimate",
+                "我的健身房在購物中心的最後層。"
             ],
             "simplified": "后"
         }
@@ -1103,7 +1153,9 @@
                 "你好嗎？",
                 "好吃",
                 "不好意思。",
-                "你的中文滿好的。"
+                "你的中文滿好的。",
+                "好在　/　adv. luckily, fortunately",
+                "今天我們有比賽，好在沒有下雨。"
             ]
         }
     },
@@ -1163,9 +1215,16 @@
         },
         "覺": {
             "examples": [
-                "睡覺"
+                "睡覺　／　sleep",
+                "午覺　／　n. siesta, afternoon nap"
             ],
             "simplified": "觉"
+        },
+        "較": {
+            "examples": [
+                "比較　/　v./adv. to compare; comparatively, relatively"
+            ],
+            "simplified": "较"
         }
     },
     "jiè": {
@@ -1199,7 +1258,10 @@
         },
         "夾": {
             "examples": [
-                "夾克　/　jacket"
+                "夾克　/　jacket",
+                "夾娃娃機　/　claw machine",
+                "一台夾娃娃機",
+                "在台灣我玩了夾娃娃機很多次。"
             ],
             "simplified": "夹"
         },
@@ -1212,7 +1274,10 @@
                 "你應該回家休息。",
                 "大家",
                 "大家都在這裏。",
-                "大家好！"
+                "大家好！",
+                "那家醫院不好。",
+                "一家健身房",
+                "一家購物中心"
             ]
         }
     },
@@ -1220,12 +1285,18 @@
         "間": {
             "examples": [
                 "洗手間",
-                "時間"
+                "時間",
+                "一間健身房"
             ],
             "simplified": "间"
         }
     },
     "jiāo": {
+        "交": {
+            "examples": [
+                "交通　/　traffic"
+            ]
+        },
         "焦": {
             "examples": [
                 "焦糖",
@@ -1380,7 +1451,13 @@
     },
     "kuài": {
         "塊": {
-            "examples": [],
+            "examples": [
+                "美金五十塊　/　50 USD",
+                "我有五塊硬幣　/　tengo 5 dolares en monedas",
+                "我有五個一塊硬幣　/　tengo 5 monedas de 1 dolar",
+                "我有一張一千塊　/　tengo un billete de 1000 TWD",
+                "我有一張一千塊，我想換兩張五百塊　/　tengo un billete de 1000 TWD y lo quiero cambiar por 2 de 500"
+            ],
             "simplified": "块"
         },
         "快": {
@@ -1552,6 +1629,14 @@
             ]
         }
     },
+    "luàn": {
+        "亂": {
+            "examples": [
+                "在越南交通很亂。　/　traffic is chaotic in Vietnam."
+            ],
+            "simplified": "乱"
+        }
+    },
     "luō": {
         "囉": {
             "examples": [
@@ -1646,7 +1731,8 @@
     "líng": {
         "零": {
             "examples": [
-                "二〇二四年"
+                "二〇二四年",
+                "零錢　/　n. change, small change"
             ]
         }
     },
@@ -2150,7 +2236,9 @@
         "錢": {
             "examples": [
                 "這個多少錢？",
-                "我有八毛錢。"
+                "我有八毛錢。",
+                "零錢　/　n. change, small change",
+                "你有沒有零錢？　/　tenes cambio (monedas)?"
             ],
             "simplified": "钱"
         }
@@ -2465,6 +2553,11 @@
                 "同事　／　colleague, co-worker"
             ]
         },
+        "士": {
+            "examples": [
+                "n. (dialect) bus"
+            ]
+        },
         "市": {
             "examples": [
                 "超市",
@@ -2514,6 +2607,12 @@
                 "時常　／　often, frequently"
             ],
             "simplified": "时"
+        },
+        "食": {
+            "examples": [
+                "食物　/　n. food",
+                "食材　/　n. food material (used in cooking)"
+            ]
         }
     },
     "shòu": {
@@ -2677,6 +2776,15 @@
             "simplified": "萨"
         }
     },
+    "sài": {
+        "賽": {
+            "examples": [
+                "比賽　/　v./n. compete; match, competition",
+                "這個週末他有乒乓球比賽。"
+            ],
+            "simplified": "赛"
+        }
+    },
     "sàn": {
         "散": {
             "examples": [
@@ -2749,6 +2857,12 @@
                 "三條龍"
             ],
             "simplified": "条"
+        },
+        "調": {
+            "examples": [
+                "調味　/　v./n. season; flavoring"
+            ],
+            "simplified": "调"
         }
     },
     "tiān": {
@@ -2917,6 +3031,21 @@
             "simplified": "听"
         }
     },
+    "tōng": {
+        "通": {
+            "examples": [
+                "交通　/　traffic"
+            ]
+        }
+    },
+    "tǎo": {
+        "討": {
+            "examples": [
+                "討厭　/　v./adj. to dislike, to hate, to be disgusted with; disagreeable, nasty; troublesome, difficult to handle"
+            ],
+            "simplified": "讨"
+        }
+    },
     "tǐ": {
         "體": {
             "examples": [
@@ -2954,14 +3083,16 @@
             "examples": [
                 "好玩",
                 "你很好玩！",
-                "臺灣好玩嗎？"
+                "臺灣好玩嗎？",
+                "在台灣我玩了夾娃娃機很多次。"
             ]
         }
     },
     "wèi": {
         "味": {
             "examples": [
-                "味道　/　taste, flavour, smell"
+                "味道　/　taste, flavour, smell",
+                "調味 / v./n. season; flavoring"
             ]
         },
         "衛": {
@@ -3112,6 +3243,13 @@
                 "現金"
             ],
             "simplified": "现"
+        }
+    },
+    "xiào": {
+        "笑": {
+            "examples": [
+                "你在笑什麼？　/　what are you laughing at?"
+            ]
         }
     },
     "xiè": {
@@ -3294,6 +3432,11 @@
         }
     },
     "xīn": {
+        "心": {
+            "examples": [
+                "購物中心　/　shopping center"
+            ]
+        },
         "新": {
             "examples": [
                 "旅遊是我的新愛好。"
@@ -3419,6 +3562,14 @@
             "simplified": "亚"
         }
     },
+    "yàn": {
+        "厭": {
+            "examples": [
+                "討厭　/　v./adj. to dislike, to hate, to be disgusted with; disagreeable, nasty; troublesome, difficult to handle"
+            ],
+            "simplified": "厌"
+        }
+    },
     "yàng": {
         "樣": {
             "examples": [
@@ -3450,6 +3601,11 @@
                 "他姓杨。"
             ],
             "simplified": "杨"
+        },
+        "洋": {
+            "examples": [
+                "洋蔥"
+            ]
         }
     },
     "yè": {
@@ -3493,6 +3649,13 @@
             "examples": [
                 "印度",
                 "他是印度人。"
+            ]
+        }
+    },
+    "yìng": {
+        "硬": {
+            "examples": [
+                "硬幣　/　coin"
             ]
         }
     },
@@ -3788,7 +3951,9 @@
     "zhōng": {
         "中": {
             "examples": [
-                "中國"
+                "中國",
+                "中心　/　center",
+                "購物中心　/　shopping center"
             ]
         }
     },
