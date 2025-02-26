@@ -556,7 +556,8 @@
                 "生氣地　/　angrily",
                 "快快地　/　quickly",
                 "慢慢地　/　slowly",
-                "開心地　/　happily"
+                "開心地　/　happily",
+                "地理　/　geography"
             ]
         }
     },
@@ -695,6 +696,14 @@
             ]
         }
     },
+    "fán": {
+        "煩": {
+            "examples": [
+                "你很煩！　/　you are very annoying!"
+            ],
+            "simplified": "烦"
+        }
+    },
     "fáng": {
         "房": {
             "examples": [
@@ -816,7 +825,9 @@
                 "關門",
                 "對不起，我們週末關門。",
                 "關心　／　to care",
-                "我關心你。"
+                "我關心你。",
+                "關係　/　n. relationship, connection",
+                "我跟他的關係現在不太好　/　The relationship I have with him is not very good right now"
             ],
             "simplified": "关"
         }
@@ -915,7 +926,8 @@
     "gēn": {
         "跟": {
             "examples": [
-                "我可以跟我的朋友一起來嗎？"
+                "我可以跟我的朋友一起來嗎？",
+                "我跟他的關係現在不太好　/　My relationship with him is not very good right now"
             ]
         }
     },
@@ -999,7 +1011,8 @@
         "華": {
             "examples": [
                 "他叫宋華。",
-                "中華文化　/　Chinese culture"
+                "中華文化　/　Chinese culture",
+                "華語　/　n. Chinese Language (also called 汉语 中文, but more often used in countries/regions other than mainland China)"
             ],
             "simplified": "华"
         }
@@ -1578,6 +1591,13 @@
                 "明天晚上你有空嗎？",
                 "你星期六有空嗎？",
                 "我會告訴你什麼時候有空。"
+            ]
+        }
+    },
+    "kǎo": {
+        "考": {
+            "examples": [
+                "考試　/　v./n. participate in an exam; examination"
             ]
         }
     },
@@ -2582,6 +2602,12 @@
             ],
             "simplified": "视"
         },
+        "試": {
+            "examples": [
+                "考試　/　v./n. participate in an exam; examination"
+            ],
+            "simplified": "试"
+        },
         "識": {
             "examples": [
                 "認識",
@@ -2678,7 +2704,8 @@
     "shī": {
         "失": {
             "examples": [
-                "塞翁失馬　/　The old man lost his mare (but it all turned out for the best) -- blessing in disguise"
+                "塞翁失馬　/　The old man lost his mare (but it all turned out for the best) -- blessing in disguise",
+                "失望　/　v./adj. to lose hope or confidence; disappointed, frustrated"
             ]
         },
         "師": {
@@ -3074,7 +3101,8 @@
         "望": {
             "examples": [
                 "希望",
-                "希望我們很快可以再見。"
+                "希望我們很快可以再見。",
+                "失望　/　v./adj. to lose hope or confidence; disappointed, frustrated"
             ]
         }
     },
@@ -3311,7 +3339,8 @@
         "兄": {
             "examples": [
                 "兄弟姐妹",
-                "你有兄弟姐妹嗎？"
+                "你有兄弟姐妹嗎？",
+                "你有幾個兄弟姐妹？　/　How many siblings do you have?"
             ]
         }
     },
