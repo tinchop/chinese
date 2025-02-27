@@ -452,7 +452,8 @@
                 "一點點",
                 "甜點　／　postre",
                 "今天的甜點是巧克力。",
-                "點餐　/　order food"
+                "點餐　/　order food",
+                "好一點　/　a little bit better"
             ],
             "simplified": "点"
         }
@@ -970,8 +971,10 @@
             "examples": [
                 "感謝",
                 "太感謝你了！",
-                "感冒",
-                "我感冒了。"
+                "感冒 / v./n. catch cold; cold; (TCM) common cold, catarrh",
+                "我感冒了。",
+                "我希望明天我感覺好一點。　/　I hope tomorrow I feel a little bit better.",
+                "感覺　/　v./n. to feel, to perceive, to become aware of; to think, to be afraid (that), to guess; feeling, sense"
             ]
         }
     },
@@ -1511,6 +1514,13 @@
                 "今天我有中文課。"
             ],
             "simplified": "课"
+        }
+    },
+    "ké": {
+        "咳": {
+            "examples": [
+                "咳嗽　/　v./n. have a cough; cough; (TCM) cough"
+            ]
         }
     },
     "kù": {
@@ -2979,7 +2989,9 @@
     "téng": {
         "疼": {
             "examples": [
-                "我的鼻子很疼。　/　my nose hurts"
+                "我的鼻子很疼。　/　my nose hurts",
+                "肚子疼 / phr. have a stomach ache",
+                "耳朵疼　/　phr. earache"
             ]
         }
     },
