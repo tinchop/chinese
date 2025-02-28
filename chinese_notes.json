@@ -83,7 +83,9 @@
         "鼻": {
             "examples": [
                 "鼻子　/　nose",
-                "我的鼻子很疼。"
+                "我的鼻子很疼。",
+                "鼻塞　/　n. nasal obstruction; (TCM) nasal congestion",
+                "我有鼻塞　/　tengo la nariz tapada"
             ]
         }
     },
@@ -305,6 +307,14 @@
                 "今天是有生產力的一天。"
             ],
             "simplified": "产"
+        }
+    },
+    "chǐ": {
+        "齒": {
+            "examples": [
+                "牙齒　/　n. tooth"
+            ],
+            "simplified": "齿"
         }
     },
     "chǒng": {
@@ -711,7 +721,8 @@
                 "房子",
                 "這個週末我去我的家人的房子。",
                 "廚房",
-                "你的廚房很大。"
+                "你的廚房很大。",
+                "藥房　/　n. dispensary, pharmacy"
             ]
         }
     },
@@ -1424,6 +1435,12 @@
                 "升降機　/　elevator"
             ],
             "simplified": "机"
+        },
+        "肌": {
+            "examples": [
+                "肌肉　/　muscle",
+                "肌肉痛　/　muscle pain"
+            ]
         }
     },
     "jīn": {
@@ -1519,7 +1536,8 @@
     "ké": {
         "咳": {
             "examples": [
-                "咳嗽　/　v./n. have a cough; cough; (TCM) cough"
+                "咳嗽　/　v./n. have a cough; cough; (TCM) cough",
+                "兩天前我開始咳嗽　／　I started coughing 2 days ago"
             ]
         }
     },
@@ -2260,7 +2278,8 @@
         "前": {
             "examples": [
                 "年前",
-                "２年前我去了歐洲"
+                "２年前我去了歐洲",
+                "兩天前我開始咳嗽　／　I started coughing 2 days ago"
             ]
         },
         "錢": {
@@ -2852,6 +2871,14 @@
             "examples": [
                 "宿舍",
                 "這是王小雲的宿舍嗎？"
+            ]
+        }
+    },
+    "sāi": {
+        "塞": {
+            "examples": [
+                "鼻塞　/　n. nasal obstruction; (TCM) nasal congestion",
+                "我有鼻塞　/　tengo la nariz tapada"
             ]
         }
     },
@@ -3606,7 +3633,8 @@
         "亞": {
             "examples": [
                 "亞洲",
-                "他是亞洲人。"
+                "他是亞洲人。",
+                "馬來西亞　/　Malaysia"
             ],
             "simplified": "亚"
         }
@@ -3631,9 +3659,17 @@
     "yào": {
         "藥": {
             "examples": [
-                "你吃的是什麼藥?　/　what medicine did you take?"
+                "你吃的是什麼藥?　/　what medicine did you take?",
+                "藥房　/　n. dispensary, pharmacy"
             ],
             "simplified": "药"
+        }
+    },
+    "yá": {
+        "牙": {
+            "examples": [
+                "牙齒　/　n. tooth"
+            ]
         }
     },
     "yán": {
