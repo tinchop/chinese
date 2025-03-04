@@ -156,6 +156,13 @@
             ]
         }
     },
+    "bǎn": {
+        "板": {
+            "examples": [
+                "黑板　/　n. blackboard"
+            ]
+        }
+    },
     "bǐ": {
         "比": {
             "examples": [
@@ -205,6 +212,13 @@
             ]
         }
     },
+    "cháo": {
+        "潮": {
+            "examples": [
+                "潮溼　/　humid"
+            ]
+        }
+    },
     "chèn": {
         "襯": {
             "examples": [
@@ -243,6 +257,13 @@
         "池": {
             "examples": [
                 "泳池"
+            ]
+        }
+    },
+    "chú": {
+        "除": {
+            "examples": [
+                "除濕機　/　n. dehumidifier"
             ]
         }
     },
@@ -900,6 +921,14 @@
             "simplified": "购"
         }
     },
+    "gù": {
+        "故": {
+            "examples": [
+                "故障　/　n. breakdown, error, bug, malfunction",
+                "我希望我的洗衣機沒有故障　/　I hope my washing machine is not broken"
+            ]
+        }
+    },
     "gāi": {
         "該": {
             "examples": [
@@ -1137,6 +1166,15 @@
             "simplified": "红"
         }
     },
+    "hú": {
+        "壺": {
+            "examples": [
+                "熱水壺　/　n. kettle",
+                "壺　/　n. (for water, tea, etc.) kettle, pot; bottle, flask"
+            ],
+            "simplified": "壶"
+        }
+    },
     "hē": {
         "喝": {
             "examples": [
@@ -1148,6 +1186,12 @@
         "嗨": {
             "examples": [
                 "嗨！"
+            ]
+        },
+        "黑": {
+            "examples": [
+                "黑色",
+                "黑板　/　blackboard"
             ]
         }
     },
@@ -2136,6 +2180,13 @@
             ]
         }
     },
+    "peng": {
+        "蓬": {
+            "examples": [
+                "帳篷　/　n. tent"
+            ]
+        }
+    },
     "piàn": {
         "片": {
             "examples": [
@@ -3051,6 +3102,13 @@
             ]
         }
     },
+    "tóu": {
+        "投": {
+            "examples": [
+                "投影機　/　n. projector, projecting camera"
+            ]
+        }
+    },
     "tú": {
         "圖": {
             "examples": [
@@ -3759,7 +3817,8 @@
                 "信用卡",
                 "你們收信用卡嗎？",
                 "不用，謝謝。",
-                "我用電腦看新聞。"
+                "我用電腦看新聞。",
+                "有用　/　useful"
             ]
         }
     },
@@ -3898,7 +3957,8 @@
                 "很有意思。",
                 "有名",
                 "富有",
-                "有道理　/　makes sense"
+                "有道理　/　makes sense",
+                "有用　/　useful"
             ]
         }
     },
@@ -3919,6 +3979,16 @@
             "simplified": "专"
         }
     },
+    "zhuō": {
+        "桌": {
+            "examples": [
+                "桌子　/　mesa",
+                "餐桌　/　n. dining table",
+                "工作桌",
+                "書桌"
+            ]
+        }
+    },
     "zhài": {
         "寨": {
             "examples": [
@@ -3933,6 +4003,20 @@
                 "地鐵站",
                 "我們在哪個站下車？",
                 "火車站　/　train station"
+            ]
+        }
+    },
+    "zhàng": {
+        "帳": {
+            "examples": [
+                "帳篷　/　n. tent"
+            ],
+            "simplified": "帐"
+        },
+        "障": {
+            "examples": [
+                "故障　/　n. breakdown, error, bug, malfunction",
+                "我希望我的洗衣機沒有故障　/　I hope my washing machine is not broken"
             ]
         }
     },
