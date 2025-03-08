@@ -196,6 +196,13 @@
             ]
         }
     },
+    "chà": {
+        "差": {
+            "examples": [
+                "差不多　/　adj./adv. similar; a great majority of; nearly, almost"
+            ]
+        }
+    },
     "chàng": {
         "唱": {
             "examples": [
@@ -514,7 +521,8 @@
                 "他有很多朋友。",
                 "工作太多。",
                 "大多",
-                "他們大多是中國人。"
+                "他們大多是中國人。",
+                "差不多　/　adj./adv. similar; a great majority of; nearly, almost"
             ]
         }
     },
@@ -593,6 +601,14 @@
             ]
         }
     },
+    "dìng": {
+        "定": {
+            "examples": [
+                "一定要　/　adv. must, have to",
+                "你們一定要試試這裡的炒飯。"
+            ]
+        }
+    },
     "dòng": {
         "動": {
             "examples": [
@@ -605,7 +621,8 @@
         "豆": {
             "examples": [
                 "豆腐",
-                "豆腐很好喫。"
+                "豆腐很好喫。",
+                "豆漿　/　soy milk"
             ]
         }
     },
@@ -747,6 +764,15 @@
             ]
         }
     },
+    "fù": {
+        "父": {
+            "examples": [
+                "父母　/　parents",
+                "我父母住在阿根廷。",
+                "你和你父母的關係怎麼樣？"
+            ]
+        }
+    },
     "fú": {
         "福": {
             "examples": [
@@ -758,7 +784,9 @@
     "fā": {
         "發": {
             "examples": [
-                "恭喜發財！　/　phr. Wish you be prosperous, may you get a fortune! (Chinese new year greeting)"
+                "恭喜發財！　/　phr. Wish you be prosperous, may you get a fortune! (Chinese new year greeting)",
+                "發燒　/　sep-v. have a fever",
+                "我發燒了　/　phr. I have got a fever."
             ],
             "simplified": "发"
         }
@@ -1321,7 +1349,8 @@
     "jiù": {
         "就": {
             "examples": [
-                "這是就爲什麼我喜歡臺灣。　/　this is why I like Taiwan"
+                "這是就爲什麼我喜歡臺灣。　/　this is why I like Taiwan",
+                "如果明天下雨，我們就不出去。"
             ]
         }
     },
@@ -1366,6 +1395,14 @@
                 "一間健身房"
             ],
             "simplified": "间"
+        }
+    },
+    "jiāng": {
+        "漿": {
+            "examples": [
+                "豆漿　/　soy milk"
+            ],
+            "simplified": "浆"
         }
     },
     "jiāo": {
@@ -1517,6 +1554,13 @@
                 "京劇",
                 "北京"
             ]
+        },
+        "經": {
+            "examples": [
+                "已經　/　adv. already",
+                "我已經看完了這本書。"
+            ],
+            "simplified": "经"
         }
     },
     "jǐ": {
@@ -1681,7 +1725,8 @@
     "kǎo": {
         "考": {
             "examples": [
-                "考試　/　v./n. participate in an exam; examination"
+                "考試　/　v./n. participate in an exam; examination",
+                "快要考試了！我們要開始準備。　/　The exam is coming up! We need to start preparing."
             ]
         }
     },
@@ -2023,7 +2068,9 @@
                 "明星",
                 "他在中國是一個明星。",
                 "明年",
-                "英語老師名年去英國旅行。"
+                "英語老師名年去英國旅行。",
+                "明白　/　adj./v. clear, obvious; explicit, open; reasonable, sensible, wise; to understand, to realize",
+                "地理很難！我不明白的東西很多。　/　geography is hard! there are a lot of things that I don't understand."
             ]
         }
     },
@@ -2087,6 +2134,14 @@
             "examples": [
                 "紅米　/　red rice",
                 "米飯　/　cooked rice"
+            ]
+        }
+    },
+    "mǔ": {
+        "母": {
+            "examples": [
+                "父母　/　parents",
+                "我父母住在阿根廷。"
             ]
         }
     },
@@ -2219,7 +2274,8 @@
         "排": {
             "examples": [
                 "牛排　/　steak",
-                "雞排　/　chicken steak"
+                "雞排　/　chicken steak",
+                "排球　/　volleyball"
             ]
         }
     },
@@ -2322,6 +2378,13 @@
             ]
         }
     },
+    "qi": {
+        "戚": {
+            "examples": [
+                "親戚　/　n. relative"
+            ]
+        }
+    },
     "qing": {
         "情": {
             "examples": [
@@ -2369,7 +2432,8 @@
                 "打球",
                 "打籃球",
                 "足球",
-                "乒乓球"
+                "乒乓球",
+                "排球　/　volleyball"
             ]
         }
     },
@@ -2468,6 +2532,14 @@
             ]
         }
     },
+    "qīn": {
+        "親": {
+            "examples": [
+                "親戚　/　n. relative"
+            ],
+            "simplified": "亲"
+        }
+    },
     "qīng": {
         "輕": {
             "examples": [
@@ -2507,6 +2579,14 @@
                 "我想請他們來我的家喫晚飯。"
             ],
             "simplified": "请"
+        }
+    },
+    "ràng": {
+        "讓": {
+            "examples": [
+                "我的公司不讓我請假。　/　my company does not allow me to take leave"
+            ],
+            "simplified": "让"
         }
     },
     "rán": {
@@ -2764,6 +2844,14 @@
             ]
         }
     },
+    "shāo": {
+        "燒": {
+            "examples": [
+                "我發燒了　/　tengo fiebre"
+            ],
+            "simplified": "烧"
+        }
+    },
     "shēn": {
         "身": {
             "examples": [
@@ -2818,6 +2906,12 @@
         }
     },
     "shū": {
+        "叔": {
+            "examples": [
+                "叔叔　/　uncle",
+                "今天是我的叔叔的生日。"
+            ]
+        },
         "書": {
             "examples": [
                 "圖書館",
@@ -2856,6 +2950,14 @@
                 "洗手間",
                 "手機",
                 "手錶　/　reloj"
+            ]
+        }
+    },
+    "shǔ": {
+        "鼠": {
+            "examples": [
+                "老鼠　/　mouse",
+                "有的人喜歡老鼠，有的人不喜歡。"
             ]
         }
     },
@@ -3389,6 +3491,13 @@
             "simplified": "现"
         }
     },
+    "xiàng": {
+        "像": {
+            "examples": [
+                "我的中文像你的一樣好。　/　my chinese is as good as yours."
+            ]
+        }
+    },
     "xiào": {
         "笑": {
             "examples": [
@@ -3721,7 +3830,8 @@
         "樣": {
             "examples": [
                 "怎麼樣",
-                "這樣"
+                "這樣",
+                "我的中文像你的一樣好。　/　my chinese is as good as yours."
             ],
             "simplified": "样"
         }
@@ -3869,7 +3979,8 @@
     "yùn": {
         "運": {
             "examples": [
-                "運動"
+                "運動",
+                "打排球是我最喜歡的運動。"
             ],
             "simplified": "运"
         }
@@ -3943,6 +4054,11 @@
                 "以前　/　before",
                 "以後　/　after",
                 "以爲　/　 to think or believe (erroneously), to assume (usually without proof), to be under the impression (that...)"
+            ]
+        },
+        "已": {
+            "examples": [
+                "已經　/　adv. already"
             ]
         }
     },
