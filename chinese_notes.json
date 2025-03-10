@@ -1577,7 +1577,9 @@
     "jǔ": {
         "舉": {
             "examples": [
-                "一舉兩得"
+                "一舉兩得　／　idiom. kill two birds with one stone",
+                "舉重　／　levantar pesas",
+                "今天我去了健身房做舉重。"
             ],
             "simplified": "举"
         }
@@ -3840,7 +3842,9 @@
         "藥": {
             "examples": [
                 "你吃的是什麼藥?　/　what medicine did you take?",
-                "藥房　/　n. dispensary, pharmacy"
+                "藥房　/　n. dispensary, pharmacy",
+                "醫藥　/　medicine",
+                "藥片　/　comprimido, pastilla (medicinal)"
             ],
             "simplified": "药"
         }
@@ -3996,6 +4000,16 @@
             "examples": [
                 "吸菸　/　fumar"
             ]
+        }
+    },
+    "yī": {
+        "醫": {
+            "examples": [
+                "醫生",
+                "醫藥　/　medicine",
+                "醫院"
+            ],
+            "simplified": "医"
         }
     },
     "yīn": {
@@ -4200,6 +4214,14 @@
         "植": {
             "examples": [
                 "植物　/　plant"
+            ]
+        }
+    },
+    "zhòng": {
+        "重": {
+            "examples": [
+                "舉重　/　levantamiento de pesas",
+                "今天我去了健身房做舉重。"
             ]
         }
     },
