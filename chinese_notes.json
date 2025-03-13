@@ -1,5 +1,10 @@
 {
     "biàn": {
+        "便": {
+            "examples": [
+                "方便　/　adj. handy, convenient; appropriate, proper"
+            ]
+        },
         "遍": {
             "examples": [
                 "一遍",
@@ -169,6 +174,14 @@
                 "比賽　/　v./n. compete; match, competition",
                 "比較　/　v./adv. to compare; comparatively, relatively"
             ]
+        }
+    },
+    "bǐng": {
+        "餅": {
+            "examples": [
+                "餅乾　/　cookie"
+            ],
+            "simplified": "饼"
         }
     },
     "chuán": {
@@ -491,7 +504,8 @@
                 "甜點　／　postre",
                 "今天的甜點是巧克力。",
                 "點餐　/　order food",
-                "好一點　/　a little bit better"
+                "好一點　/　a little bit better",
+                "點心　/　n. snack, cake, light refreshment, pastry"
             ],
             "simplified": "点"
         }
@@ -508,7 +522,8 @@
     "duì": {
         "對": {
             "examples": [
-                "你是中國人，對不對？"
+                "你是中國人，對不對？",
+                "對我來說　/　as far as I'm concerned"
             ],
             "simplified": "对"
         }
@@ -566,7 +581,8 @@
         "到": {
             "examples": [
                 "我從十點到六點睡覺。",
-                "我們到哪兒喫晚飯？"
+                "我們到哪兒喫晚飯？",
+                "沒想到　/　did not expect"
             ]
         },
         "道": {
@@ -804,6 +820,13 @@
             ]
         }
     },
+    "fāng": {
+        "方": {
+            "examples": [
+                "方便　/　adj. handy, convenient; appropriate, proper"
+            ]
+        }
+    },
     "fēi": {
         "啡": {
             "examples": [
@@ -957,20 +980,28 @@
             ]
         }
     },
+    "gā": {
+        "咖": {
+            "examples": [
+                "咖喱　／　n. curry"
+            ],
+            "simplified": "该"
+        }
+    },
     "gāi": {
         "該": {
             "examples": [
                 "應該",
                 "你應該回家休息。",
                 "該起牀了。"
-            ],
-            "simplified": "该"
+            ]
         }
     },
     "gān": {
         "乾": {
             "examples": [
-                "乾杯！　/　salud! (brindis)"
+                "乾杯！　/　salud! (brindis)",
+                "餅乾　/　cookie"
             ],
             "simplified": "干"
         }
@@ -1241,7 +1272,8 @@
         "海": {
             "examples": [
                 "上海",
-                "我很喜歡上海菜。"
+                "我很喜歡上海菜。",
+                "海鮮　/　seafood"
             ]
         }
     },
@@ -1355,6 +1387,11 @@
         }
     },
     "jiā": {
+        "伽": {
+            "examples": [
+                "瑜伽　/　n. yoga"
+            ]
+        },
         "加": {
             "examples": [
                 "加拿大",
@@ -1388,6 +1425,12 @@
         }
     },
     "jiān": {
+        "堅": {
+            "examples": [
+                "堅果　/　n. nut"
+            ],
+            "simplified": "坚"
+        },
         "間": {
             "examples": [
                 "洗手間",
@@ -1814,7 +1857,8 @@
                 "起來",
                 "早安！我剛起來。",
                 "馬來西亞　/　Malaysia",
-                "從來不　/　phr. never ever, never... at all"
+                "從來不　/　phr. never ever, never... at all",
+                "對我來說　/　as far as I'm concerned"
             ],
             "simplified": "来"
         }
@@ -1996,7 +2040,8 @@
             "examples": [
                 "麵條",
                 "麵包",
-                "意大利麵　/　spaghetti"
+                "意大利麵　/　spaghetti",
+                "泡麵　/　phr. to soak instant noodles"
             ],
             "simplified": "面"
         }
@@ -2043,7 +2088,8 @@
     "méi": {
         "沒": {
             "examples": [
-                "沒關係。"
+                "沒關係。",
+                "沒想到　/　did not expect"
             ],
             "simplified": "没"
         },
@@ -2230,7 +2276,8 @@
         "奶": {
             "examples": [
                 "奶奶",
-                "牛奶"
+                "牛奶",
+                "奶油　/　n. cream"
             ]
         }
     },
@@ -2269,6 +2316,13 @@
             "examples": [
                 "恐怕",
                 "恐怕不行。"
+            ]
+        }
+    },
+    "pào": {
+        "泡": {
+            "examples": [
+                "泡麵　/　phr. to soak instant noodles"
             ]
         }
     },
@@ -3378,6 +3432,12 @@
                 "文學　/　literature",
                 "語文　/　language, language arts (as a subject of study in primary and secondary education); language and literature"
             ]
+        },
+        "聞": {
+            "examples": [
+                "聞　/　v. to smell"
+            ],
+            "simplified": "闻"
         }
     },
     "wù": {
@@ -3531,6 +3591,12 @@
                 "先生",
                 "我先學習，然後睡覺。　/　I study first and then sleep."
             ]
+        },
+        "鮮": {
+            "examples": [
+                "海鮮　/　seafood"
+            ],
+            "simplified": "鲜"
         }
     },
     "xiāng": {
@@ -3577,7 +3643,8 @@
     "xiǎng": {
         "想": {
             "examples": [
-                "明天晚上你想幹什麼？"
+                "明天晚上你想幹什麼？",
+                "沒想到　/　did not expect"
             ]
         }
     },
@@ -3690,7 +3757,8 @@
     "xīn": {
         "心": {
             "examples": [
-                "購物中心　/　shopping center"
+                "購物中心　/　shopping center",
+                "點心　/　n. snack, cake, light refreshment, pastry\u001b[C"
             ]
         },
         "新": {
@@ -3952,7 +4020,8 @@
         "油": {
             "examples": [
                 "加油加油！",
-                "石油　/　oil"
+                "石油　/　oil",
+                "奶油　/　n. cream"
             ]
         },
         "游": {
@@ -3987,6 +4056,13 @@
                 "打排球是我最喜歡的運動。"
             ],
             "simplified": "运"
+        }
+    },
+    "yú": {
+        "瑜": {
+            "examples": [
+                "瑜伽　/　n. yoga"
+            ]
         }
     },
     "yún": {
@@ -4131,6 +4207,14 @@
             ]
         }
     },
+    "zhuǎn": {
+        "轉": {
+            "examples": [
+                "轉接頭　/　n. (electrics) converter, adapter"
+            ],
+            "simplified": "转"
+        }
+    },
     "zhài": {
         "寨": {
             "examples": [
@@ -4239,6 +4323,12 @@
         }
     },
     "zhēn": {
+        "珍": {
+            "examples": [
+                "珍珠　/　pearl",
+                "珍珠奶茶　/　bobba tea"
+            ]
+        },
         "真": {
             "examples": [
                 "那真是太好了！",
@@ -4291,6 +4381,14 @@
                 "你週末要幹嘛？"
             ],
             "simplified": "周"
+        }
+    },
+    "zhū": {
+        "珠": {
+            "examples": [
+                "珍珠　/　pearl",
+                "珍珠奶茶　/　bobba tea"
+            ]
         }
     },
     "zhǎo": {
