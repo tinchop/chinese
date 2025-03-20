@@ -228,7 +228,8 @@
             "examples": [
                 "紅茶",
                 "瑪黛茶",
-                "冰茶"
+                "冰茶",
+                "肉骨茶　/　meat bone tea (dish)"
             ]
         }
     },
@@ -938,6 +939,13 @@
             ]
         }
     },
+    "gài": {
+        "概": {
+            "examples": [
+                "大概　/　n./adj./adv. general idea; rough, approximate; briefly; approximately; probably"
+            ]
+        }
+    },
     "gàn": {
         "幹": {
             "examples": [
@@ -1012,7 +1020,10 @@
                 "認識你很高興。",
                 "恐高",
                 "他身高一米七。",
-                "高雄"
+                "高雄",
+                "提高　/　v. to raise, to elevate, to heighten, to enhance, to improve",
+                "我的中文提高得非常快。",
+                "我想提高中文水平。"
             ]
         }
     },
@@ -1074,6 +1085,13 @@
                 "我感冒了。",
                 "我希望明天我感覺好一點。　/　I hope tomorrow I feel a little bit better.",
                 "感覺　/　v./n. to feel, to perceive, to become aware of; to think, to be afraid (that), to guess; feeling, sense"
+            ]
+        }
+    },
+    "gǔ": {
+        "骨": {
+            "examples": [
+                "肉骨茶　/　meat bone tea (dish)"
             ]
         }
     },
@@ -1763,7 +1781,9 @@
             "examples": [
                 "明天晚上你有空嗎？",
                 "你星期六有空嗎？",
-                "我會告訴你什麼時候有空。"
+                "我會告訴你什麼時候有空。",
+                "空氣　/　n. air",
+                "空氣污染　/　air pollution"
             ]
         }
     },
@@ -1820,6 +1840,20 @@
             "examples": [
                 "質量　/　quality",
                 "這雙鞋子質量不太好。"
+            ]
+        }
+    },
+    "liào": {
+        "料": {
+            "examples": [
+                "飲料　/　n. drink, beverage (non alcoholic)"
+            ]
+        }
+    },
+    "liáo": {
+        "聊": {
+            "examples": [
+                "聊天　/　chatear"
             ]
         }
     },
@@ -2356,7 +2390,9 @@
         "平": {
             "examples": [
                 "平安　/　adj. safe and well, safe",
-                "祝你一路平安。/ phr. Wish you a safe trip."
+                "祝你一路平安。/ phr. Wish you a safe trip.",
+                "水平　/　n. level",
+                "我想提高中文水平。"
             ]
         },
         "蘋": {
@@ -2474,6 +2510,16 @@
             "simplified": "钱"
         }
     },
+    "qiáng": {
+        "強": {
+            "examples": [
+                "強　/　adj. strong, powerful; resolute, steadfast; of a high standard; superior (to); plus",
+                "台灣菜的味道比阿根廷的強。　／　el gusto de la comida de taiwan es mas fuerte que el gusto de la comida de argentina.",
+                "台灣菜的味道像阿根廷的一樣強。／　el gusto d la comida de taiwan es tan fuerte como el d la comida de argentina."
+            ],
+            "simplified": "强"
+        }
+    },
     "qié": {
         "茄": {
             "examples": [
@@ -2534,6 +2580,12 @@
         }
     },
     "qí": {
+        "其": {
+            "examples": [
+                "其他　/　pro. other, else (referring to other things or people)",
+                "請問，你們有什麼其他飲料？　/　what other drinks do you have?"
+            ]
+        },
         "奇": {
             "examples": [
                 "好奇",
@@ -2688,7 +2740,8 @@
                 "魚肉",
                 "雞肉",
                 "豬肉",
-                "羊肉"
+                "羊肉",
+                "肉骨茶　/　meat bone tea (dish)"
             ]
         }
     },
@@ -2712,6 +2765,15 @@
             "examples": [
                 "如果",
                 "如果你去那裏拍照。"
+            ]
+        }
+    },
+    "rǎn": {
+        "染": {
+            "examples": [
+                "污染　/　v./n. pollute; pollution",
+                "水污染　/　water pollution",
+                "空氣污染　/　air pollution"
             ]
         }
     },
@@ -2755,7 +2817,9 @@
             "examples": [
                 "水星",
                 "冰水",
-                "水果"
+                "水果",
+                "水平　/　n. level",
+                "我想提高中文水平。"
             ]
         }
     },
@@ -3168,7 +3232,8 @@
                 "冬天",
                 "天氣",
                 "天氣很冷。",
-                "今天是晴天。"
+                "今天是晴天。",
+                "聊天　/　chatear"
             ]
         }
     },
@@ -3244,6 +3309,12 @@
         }
     },
     "tí": {
+        "提": {
+            "examples": [
+                "提高　/　v. to raise, to elevate, to heighten, to enhance, to improve",
+                "他的中文提高得非常快。"
+            ]
+        },
         "題": {
             "examples": [
                 "問題",
@@ -3478,6 +3549,15 @@
             ]
         }
     },
+    "wū": {
+        "污": {
+            "examples": [
+                "污染　/　v./n. pollute; pollution",
+                "空氣污染　/　air pollution",
+                "水污染　/　water pollution"
+            ]
+        }
+    },
     "wǎn": {
         "晚": {
             "examples": [
@@ -3556,7 +3636,8 @@
     "xiàng": {
         "像": {
             "examples": [
-                "我的中文像你的一樣好。　/　my chinese is as good as yours."
+                "我的中文像你的一樣好。　/　my chinese is as good as yours.",
+                "馬來西亞菜很像臺灣的。　／　la comida de malasia se parece a la d taiwan."
             ]
         }
     },
@@ -3951,7 +4032,8 @@
                 "專業",
                 "他學習了什麼專業？",
                 "畢業",
-                "我學習了英語，可是沒畢業，現在我學習日語。"
+                "我學習了英語，可是沒畢業，現在我學習日語。",
+                "作業　/　homework"
             ],
             "simplified": "业"
         }
@@ -4150,6 +4232,14 @@
             "examples": [
                 "已經　/　adv. already"
             ]
+        }
+    },
+    "yǐn": {
+        "飲": {
+            "examples": [
+                "飲料　/　n. drink, beverage (non alcoholic)"
+            ],
+            "simplified": "饮"
         }
     },
     "yǐng": {
@@ -4476,7 +4566,8 @@
         "作": {
             "examples": [
                 "工作",
-                "下個星期我不工作。"
+                "下個星期我不工作。",
+                "作業　/　homework"
             ]
         },
         "做": {
