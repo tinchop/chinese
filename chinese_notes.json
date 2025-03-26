@@ -61,6 +61,14 @@
             ]
         }
     },
+    "bái": {
+        "白": {
+            "examples": [
+                "白天　/　day time",
+                "在冬天白天很短。"
+            ]
+        }
+    },
     "bì": {
         "幣": {
             "examples": [
@@ -1619,7 +1627,9 @@
         "經": {
             "examples": [
                 "已經　/　adv. already",
-                "我已經看完了這本書。"
+                "我已經看完了這本書。",
+                "經濟　/　n./adj. economy, economics; economical, affordable",
+                "臺灣人抱怨經濟不好。"
             ],
             "simplified": "经"
         }
@@ -2565,8 +2575,18 @@
         "全": {
             "examples": [
                 "全家",
-                "全家便利商店　/　FamilyMart"
+                "全家便利商店　/　FamilyMart",
+                "安全的地方　/　lugar seguro"
             ]
+        }
+    },
+    "què": {
+        "確": {
+            "examples": [
+                "我確定　/　phr. I am sure",
+                "我不確定吉隆坡的安全是不是比阿根廷的好。"
+            ],
+            "simplified": "确"
         }
     },
     "qì": {
@@ -2862,7 +2882,8 @@
     "shì": {
         "事": {
             "examples": [
-                "同事　／　colleague, co-worker"
+                "同事　／　colleague, co-worker",
+                "這件事情很煩。"
             ]
         },
         "士": {
@@ -3329,7 +3350,8 @@
         "停": {
             "examples": [
                 "公車停靠區",
-                "停靠"
+                "停靠",
+                "停車位　/　parking space"
             ]
         }
     },
@@ -3403,6 +3425,14 @@
             ]
         }
     },
+    "tōu": {
+        "偷": {
+            "examples": [
+                "偷　/　v./adv. to steal; stealthily, secretly",
+                "臺灣人抱怨下雨的時候，別人偷他們的傘。"
+            ]
+        }
+    },
     "tǎo": {
         "討": {
             "examples": [
@@ -3462,6 +3492,12 @@
         }
     },
     "wèi": {
+        "位": {
+            "examples": [
+                "位子　/　n. seat, place",
+                "停車位　/　n. parking space"
+            ]
+        },
         "味": {
             "examples": [
                 "味道　/　taste, flavour, smell",
@@ -3847,6 +3883,13 @@
                 "旅遊是我的新愛好。",
                 "新加坡　/　Singapore"
             ]
+        },
+        "薪": {
+            "examples": [
+                "薪資　/　n. salary, wage",
+                "平均薪資　/　average salary",
+                "臺灣平均薪資比阿根廷的高。"
+            ]
         }
     },
     "xīng": {
@@ -4024,6 +4067,12 @@
             "examples": [
                 "洋蔥"
             ]
+        },
+        "陽": {
+            "examples": [
+                "陽光　/　luz solar"
+            ],
+            "simplified": "阳"
         }
     },
     "yè": {
@@ -4208,6 +4257,11 @@
         }
     },
     "yǎn": {
+        "演": {
+            "examples": [
+                "演唱會　/　n. concert, vocal concert"
+            ]
+        },
         "眼": {
             "examples": [
                 "眼睛　/　eye"
@@ -4487,7 +4541,8 @@
                 "你在找什麼？",
                 "你找誰？",
                 "我在找我的手機。",
-                "一天一個蘋果，醫生不找我。"
+                "一天一個蘋果，醫生不找我。",
+                "難找　/　difficult to find"
             ]
         }
     },
@@ -4690,6 +4745,14 @@
                 "阿根廷",
                 "我是阿根廷人。",
                 "阿姨"
+            ]
+        }
+    },
+    "ān": {
+        "安": {
+            "examples": [
+                "安全　/　adj./n. safe; safety, security",
+                "晚安！"
             ]
         }
     },
