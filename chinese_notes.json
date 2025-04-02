@@ -546,7 +546,8 @@
                 "工作太多。",
                 "大多",
                 "他們大多是中國人。",
-                "差不多　/　adj./adv. similar; a great majority of; nearly, almost"
+                "差不多　/　adj./adv. similar; a great majority of; nearly, almost",
+                "那只熊貓多麼可愛！　/　how cute that panda is!"
             ]
         }
     },
@@ -2074,7 +2075,8 @@
         "麼": {
             "examples": [
                 "怎麼樣",
-                "你叫什麼名字？"
+                "你叫什麼名字？",
+                "那只熊貓多麼可愛！　/　how cute that panda is!"
             ],
             "simplified": "么"
         }
@@ -2530,6 +2532,13 @@
             "simplified": "强"
         }
     },
+    "qiè": {
+        "切": {
+            "examples": [
+                "親切　/　adj. kind, friendly"
+            ]
+        }
+    },
     "qié": {
         "茄": {
             "examples": [
@@ -2663,7 +2672,8 @@
     "qīn": {
         "親": {
             "examples": [
-                "親戚　/　n. relative"
+                "親戚　/　n. relative",
+                "親切　/　adj. kind, friendly"
             ],
             "simplified": "亲"
         }
