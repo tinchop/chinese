@@ -1163,6 +1163,13 @@
             ]
         }
     },
+    "huā": {
+        "花": {
+            "examples": [
+                "我花了太多時間做這個事情。"
+            ]
+        }
+    },
     "huān": {
         "歡": {
             "examples": [
@@ -2775,6 +2782,14 @@
             ]
         }
     },
+    "róng": {
+        "容": {
+            "examples": [
+                "容易　/　easy",
+                "說比做容易　/　easier said than done"
+            ]
+        }
+    },
     "róu": {
         "柔": {
             "examples": [
@@ -2820,6 +2835,12 @@
             "examples": [
                 "睡覺"
             ]
+        },
+        "稅": {
+            "examples": [
+                "關稅　/　n. tariff"
+            ],
+            "simplified": "税"
         }
     },
     "shuāng": {
@@ -4112,7 +4133,9 @@
         },
         "易": {
             "examples": [
-                "路易莎咖啡　/　Louisa Coffee"
+                "路易莎咖啡　/　Louisa Coffee",
+                "容易　/　easy",
+                "說比做容易　/　easier said than done"
             ]
         },
         "譯": {
