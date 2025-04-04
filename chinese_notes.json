@@ -1637,7 +1637,9 @@
                 "已經　/　adv. already",
                 "我已經看完了這本書。",
                 "經濟　/　n./adj. economy, economics; economical, affordable",
-                "臺灣人抱怨經濟不好。"
+                "臺灣人抱怨經濟不好。",
+                "經常　/　adj./adv. everyday, daily; often, frequently, constantly",
+                "週末我經常一個人騎自行車。"
             ],
             "simplified": "经"
         }
@@ -2190,6 +2192,14 @@
             ]
         }
     },
+    "māo": {
+        "貓": {
+            "examples": [
+                "熊貓　/　panda"
+            ],
+            "simplified": "猫"
+        }
+    },
     "měi": {
         "每": {
             "examples": [
@@ -2659,6 +2669,13 @@
         "去": {
             "examples": [
                 "我會去中國。"
+            ]
+        },
+        "趣": {
+            "examples": [
+                "感興趣　/　phr. to be interested in",
+                "我對歷史不感興趣。　/　I am not interested in history.",
+                "我沒有興趣。　/　I am not interested."
             ]
         }
     },
@@ -3351,6 +3368,15 @@
             ]
         }
     },
+    "tè": {
+        "特": {
+            "examples": [
+                "特別　/　adj. special, unusual, peculiar, exceptional",
+                "特別　/　adv. especially, in particular; for a particular purpose; all the more",
+                "他很喜歡做運動，特別是游泳。"
+            ]
+        }
+    },
     "téng": {
         "疼": {
             "examples": [
@@ -3730,6 +3756,13 @@
             "examples": [
                 "鞋子　/zapatos",
                 "一雙鞋子　/　un par de zapatos"
+            ]
+        }
+    },
+    "xióng": {
+        "熊": {
+            "examples": [
+                "熊貓　/　panda"
             ]
         }
     },
