@@ -696,6 +696,15 @@
             ]
         }
     },
+    "dēng": {
+        "燈": {
+            "examples": [
+                "燈　/　n. lamp, light",
+                "可以開燈嗎？　/　can I turn on the light?"
+            ],
+            "simplified": "灯"
+        }
+    },
     "děng": {
         "等": {
             "examples": [
@@ -2928,6 +2937,11 @@
         }
     },
     "shì": {
+        "世": {
+            "examples": [
+                "世界　/　world"
+            ]
+        },
         "事": {
             "examples": [
                 "同事　／　colleague, co-worker",
@@ -3615,7 +3629,8 @@
             "examples": [
                 "寵物　/　pet",
                 "植物　/　plant",
-                "禮物　/　n. gift, present"
+                "禮物　/　n. gift, present",
+                "動物　/　animal"
             ]
         }
     },
