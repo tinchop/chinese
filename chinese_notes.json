@@ -700,7 +700,8 @@
         "燈": {
             "examples": [
                 "燈　/　n. lamp, light",
-                "可以開燈嗎？　/　can I turn on the light?"
+                "可以開燈嗎？　/　can I turn on the light?",
+                "紅綠燈"
             ],
             "simplified": "灯"
         }
@@ -743,7 +744,9 @@
                 "打籃球",
                 "打人",
                 "打電話",
-                "我會給你打電話。"
+                "我會給你打電話。",
+                "打算　/　v./n. to plan to, to intend; plan, intention",
+                "放假的時候你打算做什麼？"
             ]
         }
     },
@@ -776,7 +779,9 @@
             "examples": [
                 "放假　/　to have a holiday; to be on vacation",
                 "下個星期我放假。",
-                "放輕鬆　/　relax, take it easy"
+                "放輕鬆　/　relax, take it easy",
+                "放鬆　/　v. loosen, relax",
+                "我們去看電影，放鬆一下吧！"
             ]
         }
     },
@@ -797,6 +802,15 @@
                 "你的廚房很大。",
                 "藥房　/　n. dispensary, pharmacy"
             ]
+        }
+    },
+    "fèi": {
+        "費": {
+            "examples": [
+                "免費　/　adj. free of charge",
+                "小費　/　propina"
+            ],
+            "simplified": "费"
         }
     },
     "fù": {
@@ -1132,7 +1146,8 @@
     "huài": {
         "壞": {
             "examples": [
-                "你很壞！ => you are bad! (saying in a cute way)"
+                "你很壞！ => you are bad! (saying in a cute way)",
+                "那輛自行車壞了。　/　That bicycle is broken."
             ],
             "simplified": "坏"
         }
@@ -1263,7 +1278,8 @@
                 "紅色　/　red color",
                 "紅米　/　red rice",
                 "紅酒　/　red wine",
-                "我覺得紅酒比啤酒健康。"
+                "我覺得紅酒比啤酒健康。",
+                "紅綠燈"
             ],
             "simplified": "红"
         }
@@ -1330,6 +1346,14 @@
                 "你的中文滿好的。",
                 "好在　/　adv. luckily, fortunately",
                 "今天我們有比賽，好在沒有下雨。"
+            ]
+        }
+    },
+    "hǔ": {
+        "虎": {
+            "examples": [
+                "虎　/　tigre",
+                "龍虎塔　/　dragon and tiger pagodas"
             ]
         }
     },
@@ -1865,6 +1889,13 @@
         }
     },
     "liàng": {
+        "輛": {
+            "examples": [
+                "輛　/　m. a measure word for vehicles",
+                "那輛自行車壞了。　/　That bicycle is broken."
+            ],
+            "simplified": "辆"
+        },
         "量": {
             "examples": [
                 "質量　/　quality",
@@ -1999,6 +2030,13 @@
             "examples": [
                 "吉隆坡　/　Kuala Lumpur"
             ]
+        },
+        "龍": {
+            "examples": [
+                "龍　/　n. dragon (legendary creature)",
+                "龍虎塔　/　Dragon and Tiger pagodas"
+            ],
+            "simplified": "龙"
         }
     },
     "lóu": {
@@ -2075,7 +2113,8 @@
         "綠": {
             "examples": [
                 "綠色",
-                "綠色植物　/　green plants, greenery"
+                "綠色植物　/　green plants, greenery",
+                "紅綠燈"
             ],
             "simplified": "绿"
         }
@@ -2108,6 +2147,15 @@
                 "泡麵　/　phr. to soak instant noodles"
             ],
             "simplified": "面"
+        }
+    },
+    "miǎn": {
+        "免": {
+            "examples": [
+                "免費　/　adj. free of charge",
+                "這是免費的嗎？　/　is this free?",
+                "酒店的早餐是免費的。"
+            ]
         }
     },
     "mài": {
@@ -2301,7 +2349,9 @@
         "拿": {
             "examples": [
                 "拿鐵",
-                "焦糖拿鐵"
+                "焦糖拿鐵",
+                "加拿大",
+                "他們想拿一張城市地圖。　/　They want to get a city map."
             ]
         }
     },
@@ -3183,6 +3233,14 @@
             "simplified": "诉"
         }
     },
+    "suàn": {
+        "算": {
+            "examples": [
+                "打算　/　v./n. to plan to, to intend; plan, intention",
+                "放假的時候你打算做什麼？"
+            ]
+        }
+    },
     "suǒ": {
         "所": {
             "examples": [
@@ -3263,7 +3321,9 @@
             "examples": [
                 "我想輕鬆一下。",
                 "今天他不忙，他很輕鬆。",
-                "放輕鬆　/　relax, take it easy"
+                "放輕鬆　/　relax, take it easy",
+                "放鬆　/　v. loosen, relax",
+                "我們去看電影，放鬆一下吧！"
             ],
             "simplified": "松"
         }
@@ -3443,13 +3503,23 @@
             ]
         }
     },
+    "tù": {
+        "兔": {
+            "examples": [
+                "兔子　/　conejo"
+            ]
+        }
+    },
     "tú": {
         "圖": {
             "examples": [
                 "圖書館",
                 "我去图书馆学习汉语。",
                 "拼圖　/　rompecabezas",
-                "拼拼圖　/　armar un rompecabezas"
+                "拼拼圖　/　armar un rompecabezas",
+                "地圖　/　n. map",
+                "城市地圖",
+                "一張城市地圖"
             ],
             "simplified": "图"
         }
@@ -3501,6 +3571,14 @@
             "examples": [
                 "偷　/　v./adv. to steal; stealthily, secretly",
                 "臺灣人抱怨下雨的時候，別人偷他們的傘。"
+            ]
+        }
+    },
+    "tǎ": {
+        "塔": {
+            "examples": [
+                "塔　/　n. tower, pagoda",
+                "龍虎塔　/　Dragon and Tiger pagodas"
             ]
         }
     },
@@ -3895,11 +3973,11 @@
         }
     },
     "xí": {
-        "學": {
+        "習": {
             "examples": [
                 "學習",
                 "我學習漢語。",
-                "習慣",
+                "習慣　／　n. habit, custom, practice",
                 "好習慣",
                 "壞習慣"
             ],
@@ -4762,6 +4840,16 @@
             "simplified": "载"
         }
     },
+    "zào": {
+        "噪": {
+            "examples": [
+                "噪音　/　n. noise, undesired sound",
+                "白噪音　/　ruido blanco",
+                "噪聲　/　n. noise",
+                "白噪聲　/　ruido blanco"
+            ]
+        }
+    },
     "zú": {
         "足": {
             "examples": [
@@ -4801,6 +4889,11 @@
                 "早上好！",
                 "早飯",
                 "我們八點喫早飯。"
+            ]
+        },
+        "澡": {
+            "examples": [
+                "洗澡　/　sep-v. take a shower, bath"
             ]
         }
     },
