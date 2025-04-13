@@ -267,7 +267,9 @@
     "chéng": {
         "成": {
             "examples": [
-                "城市　／　city, town, municipality"
+                "城市　／　city, town, municipality",
+                "完成　/　v. accomplish, finish, complete",
+                "完成　/　v. accomplish, finish, complete"
             ]
         },
         "橙": {
@@ -944,7 +946,9 @@
                 "關心　／　to care",
                 "我關心你。",
                 "關係　/　n. relationship, connection",
-                "我跟他的關係現在不太好　/　The relationship I have with him is not very good right now"
+                "我跟他的關係現在不太好　/　The relationship I have with him is not very good right now",
+                "關於　/　prep. about",
+                "這個電影是關於什麼的？　/　What is this movie about?"
             ],
             "simplified": "关"
         }
@@ -1044,6 +1048,15 @@
                 "餅乾　/　cookie"
             ],
             "simplified": "干"
+        }
+    },
+    "gāng": {
+        "剛": {
+            "examples": [
+                "剛才　/　n. just now",
+                "我剛才給你發了一個短信。　/　I just sent you a text message."
+            ],
+            "simplified": "刚"
         }
     },
     "gāo": {
@@ -1773,6 +1786,14 @@
             ]
         }
     },
+    "kùn": {
+        "睏": {
+            "examples": [
+                "睏　/　adj. sleepy; tired; difficult, hard"
+            ],
+            "simplified": "困"
+        }
+    },
     "kā": {
         "咖": {
             "examples": [
@@ -1892,7 +1913,8 @@
         "輛": {
             "examples": [
                 "輛　/　m. a measure word for vehicles",
-                "那輛自行車壞了。　/　That bicycle is broken."
+                "那輛自行車壞了。　/　That bicycle is broken.",
+                "車輛　/　n. vehicles"
             ],
             "simplified": "辆"
         },
@@ -2688,7 +2710,8 @@
         "其": {
             "examples": [
                 "其他　/　pro. other, else (referring to other things or people)",
-                "請問，你們有什麼其他飲料？　/　what other drinks do you have?"
+                "請問，你們有什麼其他飲料？　/　what other drinks do you have?",
+                "其實　/　adv. actually, in fact"
             ]
         },
         "奇": {
@@ -3042,6 +3065,12 @@
         }
     },
     "shí": {
+        "實": {
+            "examples": [
+                "其實　/　adv. actually, in fact"
+            ],
+            "simplified": "实"
+        },
         "時": {
             "examples": [
                 "時候",
@@ -3631,6 +3660,11 @@
         }
     },
     "wán": {
+        "完": {
+            "examples": [
+                "完成　/　v. accomplish, finish, complete"
+            ]
+        },
         "玩": {
             "examples": [
                 "好玩",
@@ -3874,6 +3908,11 @@
         }
     },
     "xiāng": {
+        "相": {
+            "examples": [
+                "相信　/　v. to believe, to trust, to have confidence in, to have faith in"
+            ]
+        },
         "香": {
             "examples": [
                 "香蕉　/　banana"
@@ -3965,6 +4004,16 @@
             "simplified": "戏"
         }
     },
+    "xìn": {
+        "信": {
+            "examples": [
+                "信號　/　n. signal",
+                "手機信號不好。",
+                "信心　/　n. faith, confidence",
+                "相信　/　v. to believe, to trust, to have confidence in, to have faith in"
+            ]
+        }
+    },
     "xìng": {
         "姓": {
             "examples": [
@@ -4008,6 +4057,15 @@
             ]
         }
     },
+    "xùn": {
+        "訊": {
+            "examples": [
+                "訊息　/　text message",
+                "請看我的line訊息。"
+            ],
+            "simplified": "讯"
+        }
+    },
     "xī": {
         "吸": {
             "examples": [
@@ -4032,7 +4090,8 @@
         "心": {
             "examples": [
                 "購物中心　/　shopping center",
-                "點心　/　n. snack, cake, light refreshment, pastry\u001b[C"
+                "點心　/　n. snack, cake, light refreshment, pastry\u001b[C",
+                "信心　/　n. faith, confidence"
             ]
         },
         "新": {
