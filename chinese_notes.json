@@ -269,7 +269,8 @@
             "examples": [
                 "城市　／　city, town, municipality",
                 "完成　/　v. accomplish, finish, complete",
-                "完成　/　v. accomplish, finish, complete"
+                "完成　/　v. accomplish, finish, complete",
+                "成績　/　n. result, grade, score"
             ]
         },
         "橙": {
@@ -1592,6 +1593,12 @@
                 "季節　/　n. season (of the year)",
                 "颱風季　/　temporada de tifones"
             ]
+        },
+        "績": {
+            "examples": [
+                "成績　/　n. result, grade, score"
+            ],
+            "simplified": "绩"
         },
         "記": {
             "examples": [
