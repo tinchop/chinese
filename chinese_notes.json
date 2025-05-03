@@ -703,7 +703,8 @@
                 "買單",
                 "菜單",
                 "孤單",
-                "自己一個人不覺得孤單馬？"
+                "自己一個人不覺得孤單馬？",
+                "簡單　/　adj. simple, uncomplicated; ordinary (usually in the negative); casual, oversimplified"
             ],
             "simplified": "单"
         }
@@ -1616,6 +1617,13 @@
                 "柬埔寨",
                 "柬埔寨在亞洲。"
             ]
+        },
+        "簡": {
+            "examples": [
+                "簡單　/　simple",
+                "別緊張，這個手術很簡單。"
+            ],
+            "simplified": "简"
         }
     },
     "jiǔ": {
@@ -2909,7 +2917,8 @@
                 "起床",
                 "喂，起床樓寶貝。",
                 "一起",
-                "下個星期我們一起看電影吧。"
+                "下個星期我們一起看電影吧。",
+                "我今天起得很晚。"
             ]
         }
     },
@@ -3204,6 +3213,15 @@
             "examples": [
                 "教授"
             ]
+        }
+    },
+    "shù": {
+        "術": {
+            "examples": [
+                "手術　/　n. surgical operation, operation",
+                "別緊張，這個手術很簡單。"
+            ],
+            "simplified": "术"
         }
     },
     "shùn": {
@@ -3976,6 +3994,12 @@
                 "發現　/　v. find out, discover, recognize"
             ],
             "simplified": "现"
+        },
+        "線": {
+            "examples": [
+                "一號線　/　Line 1 (of subway, etc.)"
+            ],
+            "simplified": "线"
         }
     },
     "xiàng": {
