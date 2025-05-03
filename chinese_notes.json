@@ -42,6 +42,14 @@
             "examples": [
                 "五半　/　las cinco y media"
             ]
+        },
+        "辦": {
+            "examples": [
+                "在家辦公真好。",
+                "在家辦公　/　phr. work from home",
+                "辦公室　/　office"
+            ],
+            "simplified": "办"
         }
     },
     "bào": {
@@ -182,6 +190,13 @@
                 "比賽　/　v./n. compete; match, competition",
                 "比較　/　v./adv. to compare; comparatively, relatively"
             ]
+        },
+        "筆": {
+            "examples": [
+                "筆記　/　n./v. note; take notes",
+                "如果我想流利地說中文，每天都我要複習我的中文筆記。"
+            ],
+            "simplified": "笔"
         }
     },
     "bǐng": {
@@ -430,6 +445,15 @@
             ]
         }
     },
+    "cí": {
+        "詞": {
+            "examples": [
+                "詞　/　word",
+                "你會寫這個詞？"
+            ],
+            "simplified": "词"
+        }
+    },
     "cóng": {
         "從": {
             "examples": [
@@ -660,7 +684,8 @@
         "度": {
             "examples": [
                 "印度",
-                "震度　/　earthquake intensity"
+                "震度　/　earthquake intensity",
+                "今天多少度？"
             ]
         }
     },
@@ -812,7 +837,9 @@
         "費": {
             "examples": [
                 "免費　/　adj. free of charge",
-                "小費　/　propina"
+                "小費　/　propina",
+                "學費　/　tuition",
+                "雖然歐洲比較遠，但是學費不貴。"
             ],
             "simplified": "费"
         }
@@ -824,6 +851,13 @@
                 "我父母住在阿根廷。",
                 "你和你父母的關係怎麼樣？"
             ]
+        },
+        "複": {
+            "examples": [
+                "複習　/　v. to review, to go over, to revise",
+                "如果我想流利地說中文，每天都我要複習我的中文筆記。"
+            ],
+            "simplified": "复"
         }
     },
     "fú": {
@@ -840,7 +874,8 @@
                 "恭喜發財！　/　phr. Wish you be prosperous, may you get a fortune! (Chinese new year greeting)",
                 "發燒　/　sep-v. have a fever",
                 "我發燒了　/　phr. I have got a fever.",
-                "發生　/　v. happen, occur"
+                "發生　/　v. happen, occur",
+                "發現　/　v. find out, discover, recognize"
             ],
             "simplified": "发"
         }
@@ -1477,7 +1512,8 @@
                 "這是就爲什麼我喜歡臺灣。　/　this is why I like Taiwan",
                 "如果明天下雨，我們就不出去。",
                 "就拿。。。來說。。。",
-                "就拿西班牙沒有電的事情來說電很重要 / from the situation of spain not having electricity we can extract the conclusion that electricity is very important"
+                "就拿西班牙沒有電的事情來說電很重要 / from the situation of spain not having electricity we can extract the conclusion that electricity is very important",
+                "那就好　/　that's good!"
             ]
         }
     },
@@ -1688,7 +1724,8 @@
         },
         "金": {
             "examples": [
-                "現金　/　cash"
+                "現金　/　cash",
+                "金融卡　/　debit card"
             ]
         }
     },
@@ -1890,6 +1927,13 @@
             ]
         }
     },
+    "kǎ": {
+        "卡": {
+            "examples": [
+                "金融卡　/　debit card"
+            ]
+        }
+    },
     "kǎo": {
         "考": {
             "examples": [
@@ -1968,6 +2012,14 @@
             ]
         }
     },
+    "liú": {
+        "流": {
+            "examples": [
+                "流利　/　adj. fluent, fluently",
+                "我想流利地說中文。"
+            ]
+        }
+    },
     "luàn": {
         "亂": {
             "examples": [
@@ -2038,7 +2090,8 @@
         "利": {
             "examples": [
                 "順利",
-                "祝你順利。"
+                "祝你順利。",
+                "流利　/　adj. fluent, fluently"
             ]
         },
         "力": {
@@ -2259,6 +2312,14 @@
             "examples": [
                 "草莓　/　strawberry",
                 "草莓冰淇淋　/　strawberry icecream"
+            ]
+        }
+    },
+    "méng": {
+        "萌": {
+            "examples": [
+                "萌　/　adj. (slang for) adorable, cute (borrowed from Japanese)",
+                "太萌了！"
             ]
         }
     },
@@ -2600,6 +2661,13 @@
             ]
         }
     },
+    "pǐn": {
+        "品": {
+            "examples": [
+                "作品　/　n. works (of art)"
+            ]
+        }
+    },
     "pǔ": {
         "埔": {
             "examples": [
@@ -2720,7 +2788,8 @@
         "確": {
             "examples": [
                 "我確定　/　phr. I am sure",
-                "我不確定吉隆坡的安全是不是比阿根廷的好。"
+                "我不確定吉隆坡的安全是不是比阿根廷的好。",
+                "我不確定　/　I'm not sure"
             ],
             "simplified": "确"
         }
@@ -2916,6 +2985,11 @@
             "examples": [
                 "容易　/　easy",
                 "說比做容易　/　easier said than done"
+            ]
+        },
+        "融": {
+            "examples": [
+                "金融卡　/　debit card"
             ]
         }
     },
@@ -3620,7 +3694,8 @@
         "聽": {
             "examples": [
                 "你聽什麼音樂？",
-                "好聽"
+                "好聽",
+                "聽說　/　v. to be told, to hear of; to listen and speak (language skills)"
             ],
             "simplified": "听"
         }
@@ -3724,6 +3799,12 @@
                 "調味 / v./n. season; flavoring"
             ]
         },
+        "胃": {
+            "examples": [
+                "胃口　/　n. appetite",
+                "我發燒了，所以沒胃口。"
+            ]
+        },
         "衛": {
             "examples": [
                 "衛生紙　/　toilet paper"
@@ -3765,6 +3846,11 @@
                 "聞　/　v. to smell"
             ],
             "simplified": "闻"
+        },
+        "蚊": {
+            "examples": [
+                "蚊子　/　n. mosquito"
+            ]
         }
     },
     "wù": {
@@ -3823,7 +3909,8 @@
                 "晚安！",
                 "晚安，好夢！",
                 "昨天晚上他很晚睡覺。",
-                "昨晚　/　last night"
+                "昨晚　/　last night",
+                "昨晚有風，所以我開始咳嗽了。"
             ]
         },
         "碗": {
@@ -3885,7 +3972,8 @@
                 "現在",
                 "現在他的哥哥去中國超市買菜。",
                 "現在五點半。",
-                "現金"
+                "現金",
+                "發現　/　v. find out, discover, recognize"
             ],
             "simplified": "现"
         }
@@ -4128,7 +4216,9 @@
             "examples": [
                 "購物中心　/　shopping center",
                 "點心　/　n. snack, cake, light refreshment, pastry\u001b[C",
-                "信心　/　n. faith, confidence"
+                "信心　/　n. faith, confidence",
+                "心理　/　n. mentality, psychology",
+                "心理學很難但是很有趣。"
             ]
         },
         "新": {
@@ -4476,6 +4566,21 @@
             ]
         }
     },
+    "yāng": {
+        "央": {
+            "examples": [
+                "中央　/　n. center, middle"
+            ]
+        }
+    },
+    "yāo": {
+        "邀": {
+            "examples": [
+                "邀請　/　v./n. invite; invitation",
+                "謝謝你的邀請。"
+            ]
+        }
+    },
     "yī": {
         "醫": {
             "examples": [
@@ -4663,6 +4768,13 @@
                 "我的愛好是拍照。",
                 "照相機",
                 "照片"
+            ]
+        },
+        "罩": {
+            "examples": [
+                "口罩　/　n. mask (surgical etc.)",
+                "因爲我感冒了，所以帶着口罩。",
+                "臺灣人常常戴口罩。"
             ]
         }
     },
