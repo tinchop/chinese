@@ -201,11 +201,11 @@
         }
     },
     "chuáng": {
-        "牀": {
+        "床": {
             "examples": [
-                "起牀",
-                "我的哥哥每天早上七點起牀。",
-                "他每天很早起牀。"
+                "起床",
+                "我的哥哥每天早上七點起床。",
+                "他每天很早起床。"
             ],
             "simplified": "床"
         }
@@ -634,7 +634,8 @@
         "定": {
             "examples": [
                 "一定要　/　adv. must, have to",
-                "你們一定要試試這裡的炒飯。"
+                "你們一定要試試這裡的炒飯。",
+                "不一定　/　phr. not always, not necessarily"
             ]
         }
     },
@@ -838,7 +839,8 @@
             "examples": [
                 "恭喜發財！　/　phr. Wish you be prosperous, may you get a fortune! (Chinese new year greeting)",
                 "發燒　/　sep-v. have a fever",
-                "我發燒了　/　phr. I have got a fever."
+                "我發燒了　/　phr. I have got a fever.",
+                "發生　/　v. happen, occur"
             ],
             "simplified": "发"
         }
@@ -954,6 +956,15 @@
             "simplified": "关"
         }
     },
+    "guī": {
+        "龜": {
+            "examples": [
+                "烏龜　/　n. tortoise",
+                "我有一隻烏龜。"
+            ],
+            "simplified": "龟"
+        }
+    },
     "guǎn": {
         "館": {
             "examples": [
@@ -1038,7 +1049,7 @@
             "examples": [
                 "應該",
                 "你應該回家休息。",
-                "該起牀了。"
+                "該起床了。"
             ]
         }
     },
@@ -1259,7 +1270,8 @@
         "何": {
             "examples": [
                 "如何",
-                "今天如何？"
+                "今天如何？",
+                "如何　/　pro. how, what, how or what about"
             ]
         },
         "和": {
@@ -1463,7 +1475,9 @@
         "就": {
             "examples": [
                 "這是就爲什麼我喜歡臺灣。　/　this is why I like Taiwan",
-                "如果明天下雨，我們就不出去。"
+                "如果明天下雨，我們就不出去。",
+                "就拿。。。來說。。。",
+                "就拿西班牙沒有電的事情來說電很重要 / from the situation of spain not having electricity we can extract the conclusion that electricity is very important"
             ]
         }
     },
@@ -1735,6 +1749,13 @@
             ]
         }
     },
+    "kuàng": {
+        "況": {
+            "examples": [
+                "看情況　/　phr. it depends"
+            ]
+        }
+    },
     "kàn": {
         "看": {
             "examples": [
@@ -1742,7 +1763,8 @@
                 "你看了今天的報紙嗎？",
                 "請看一下。",
                 "你看",
-                "看看"
+                "看看",
+                "看情況　/　phr. it depends"
             ]
         }
     },
@@ -2597,7 +2619,8 @@
     "qing": {
         "情": {
             "examples": [
-                "昨天你有什麼事情？"
+                "昨天你有什麼事情？",
+                "看情況　/　phr. it depends"
             ]
         }
     },
@@ -2786,6 +2809,7 @@
         "親": {
             "examples": [
                 "親戚　/　n. relative",
+                "親切　/　adj. kind, friendly",
                 "親切　/　adj. kind, friendly"
             ],
             "simplified": "亲"
@@ -2814,8 +2838,8 @@
         "起": {
             "examples": [
                 "對不起。",
-                "起牀",
-                "喂，起牀樓寶貝。",
+                "起床",
+                "喂，起床樓寶貝。",
                 "一起",
                 "下個星期我們一起看電影吧。"
             ]
@@ -3142,6 +3166,13 @@
         }
     },
     "shēn": {
+        "深": {
+            "examples": [
+                "深　/　adj./adv./n. (color) dark; deep; difficult; thorough; intimate; late (in the day, night or season); very, deeply; depth",
+                "深色　/　dark color",
+                "她喜歡穿深色的衣服。"
+            ]
+        },
         "身": {
             "examples": [
                 "身體",
@@ -4161,6 +4192,11 @@
         }
     },
     "yuàn": {
+        "怨": {
+            "examples": [
+                "抱怨　/　v. to complain, to grumble (about), to air one's complaints"
+            ]
+        },
         "院": {
             "examples": [
                 "電影團",
@@ -4686,6 +4722,11 @@
         }
     },
     "zhù": {
+        "助": {
+            "examples": [
+                "幫助　/　v. assist, help"
+            ]
+        },
         "注": {
             "examples": [
                 "注意　/　v. to take notice of, to heed, to pay attention to, to look out (for)",
