@@ -5,16 +5,6 @@ from termcolor import colored
 chinese_notes = load_chinese_notes()
 character_dict = create_character_dict(chinese_notes)
 existing_characters = list(character_dict.keys())
-character_to_tone_dict = create_character_to_tone_dict(chinese_notes)
-
-def print_example(example):
-    colored_example = ''
-    for letter in example:
-        colored_example += get_colored_character(letter)
-    print(colored_example)
-    
-def get_colored_character(character):
-    return colored(character, character_to_tone_dict.get(character, 'white'))
 
 while True:
     os.system('clear')
@@ -27,18 +17,9 @@ while True:
             break
         for char in chinese_notes[pinyin]:
             if char == character:
-                print('\n')
-                print('\n')
-                print(get_colored_character(character))
-                print(pinyin)
-                print('\n')
                 
-                if 'simplified' in chinese_notes[pinyin][character]:
-                    print('Simplified: ' + chinese_notes[pinyin][character]['simplified'])
-                    print('\n')
-                
-                for example in chinese_notes[pinyin][character]['examples']:
-                    print_example(example)
+                character_entry = chinese_notes[pinyin][character]
+                show_character(character, pinyin, character_entry.get('simplified', None), character_entry['examples'], character_dict)
                 
                 character_found = True
                 break

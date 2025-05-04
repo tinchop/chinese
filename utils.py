@@ -1,5 +1,6 @@
 import json
 import configparser
+from termcolor import colored
 
 config = configparser.ConfigParser()
 config.read('config.ini')
@@ -27,6 +28,8 @@ def create_character_to_tone_dict(chinese_notes):
 
 
 def get_tone(pinyin):
+    if not pinyin:
+        return 'white'
     for char in pinyin:
         if char in ['ā', 'ē', 'ī', 'ō', 'ū', 'ǖ']:
             return 'light_red'
@@ -45,3 +48,27 @@ def is_yes(option):
 def save_file(chinese_notes):
     with open(chinese_notes_filename, 'w') as file:
         file.write(json.dumps(chinese_notes, indent=4, ensure_ascii=False, sort_keys=True))
+
+def print_example(example, character_dict):
+    colored_example = ''
+    for letter in example:
+        character_entry = character_dict.get(letter, None)
+        colored_example += get_colored_character(letter, character_entry['pinyin'] if character_entry else None)
+    print(colored_example)
+    
+def get_colored_character(character, pinyin):
+    return colored(character, get_tone(pinyin))
+        
+def show_character(character, pinyin, simplified, examples, character_dict):
+    print('\n')
+    print('\n')
+    print(get_colored_character(character, pinyin))
+    print(pinyin)
+    print('\n')
+    
+    if simplified:
+        print('Simplified: ' + simplified)
+        print('\n')
+    
+    for example in examples:
+        print_example(example, character_dict)
