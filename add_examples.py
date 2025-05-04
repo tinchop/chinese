@@ -16,7 +16,8 @@ def add_example(character, chinese_notes):
                     break
                 
 chinese_notes = load_chinese_notes()
-existing_characters = extract_existing_characters(chinese_notes)
+character_dict = create_character_dict(chinese_notes)
+existing_characters = list(character_dict.keys())
 
 while True:
     print('For which character would you like to add an example?')

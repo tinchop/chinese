@@ -9,12 +9,14 @@ def load_chinese_notes():
     with open(chinese_notes_filename) as data:
 	    return json.load(data)
  
-def extract_existing_characters(chinese_notes):
-    existing_characters = set()
+def create_character_dict(chinese_notes):
+    character_dict = {}
     for pinyin in chinese_notes:
         for character in chinese_notes[pinyin]:
-            existing_characters.add(character)
-    return list(existing_characters)
+            entry = chinese_notes[pinyin][character]
+            entry['pinyin'] = pinyin
+            character_dict[character] = entry
+    return character_dict
 
 def create_character_to_tone_dict(chinese_notes):
     character_to_tone_dict = {}

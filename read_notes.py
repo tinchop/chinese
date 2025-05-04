@@ -3,7 +3,8 @@ from utils import *
 from termcolor import colored
 
 chinese_notes = load_chinese_notes()
-existing_characters = extract_existing_characters(chinese_notes)
+character_dict = create_character_dict(chinese_notes)
+existing_characters = list(character_dict.keys())
 character_to_tone_dict = create_character_to_tone_dict(chinese_notes)
 
 def print_example(example):

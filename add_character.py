@@ -59,7 +59,8 @@ def init_new_entry():
     }
                
 chinese_notes = load_chinese_notes()
-existing_characters = extract_existing_characters(chinese_notes)
+character_dict = create_character_dict(chinese_notes)
+existing_characters = list(character_dict.keys())
 new_entry = init_new_entry()
 
 while True:
