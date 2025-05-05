@@ -989,7 +989,8 @@
                 "關係　/　n. relationship, connection",
                 "我跟他的關係現在不太好　/　The relationship I have with him is not very good right now",
                 "關於　/　prep. about",
-                "這個電影是關於什麼的？　/　What is this movie about?"
+                "這個電影是關於什麼的？　/　What is this movie about?",
+                "開關　/　n. switch, on-off"
             ],
             "simplified": "关"
         }
@@ -1307,6 +1308,13 @@
                 "今天還好嗎？"
             ],
             "simplified": "还"
+        }
+    },
+    "hèn": {
+        "恨": {
+            "examples": [
+                "恨　/　hèn"
+            ]
         }
     },
     "hé": {
@@ -1891,7 +1899,8 @@
                 "開門",
                 "我們十一點開門。",
                 "開始　/　v./n. start, begin; beginning",
-                "電影五點開始。"
+                "電影五點開始。",
+                "開關　/　n. switch, on-off"
             ],
             "simplified": "开"
         }
@@ -2702,7 +2711,9 @@
         "情": {
             "examples": [
                 "昨天你有什麼事情？",
-                "看情況　/　phr. it depends"
+                "看情況　/　phr. it depends",
+                "心情　/　mood",
+                "我按下心情的開關"
             ]
         }
     },
@@ -5158,6 +5169,14 @@
             "examples": [
                 "走路　/　walk, go on foot",
                 "我很累，不想走路。"
+            ]
+        }
+    },
+    "àn": {
+        "按": {
+            "examples": [
+                "按　/　v. press down, press (a button)",
+                "我按下心情的開關"
             ]
         }
     },
