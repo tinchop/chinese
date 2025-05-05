@@ -1,6 +1,7 @@
 import json
 import configparser
 from termcolor import colored
+import copy
 
 config = configparser.ConfigParser()
 config.read('config.ini')
@@ -14,7 +15,7 @@ def create_character_dict(chinese_notes):
     character_dict = {}
     for pinyin in chinese_notes:
         for character in chinese_notes[pinyin]:
-            entry = chinese_notes[pinyin][character]
+            entry = copy.deepcopy(chinese_notes[pinyin][character])
             entry['pinyin'] = pinyin
             character_dict[character] = entry
     return character_dict
