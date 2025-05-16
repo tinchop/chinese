@@ -106,7 +106,8 @@
                 "鼻子　/　nose",
                 "我的鼻子很疼。",
                 "鼻塞　/　n. nasal obstruction; (TCM) nasal congestion",
-                "我有鼻塞　/　tengo la nariz tapada"
+                "我有鼻塞　/　tengo la nariz tapada",
+                "流鼻水　/　phr. to have a running nose"
             ]
         }
     },
@@ -593,7 +594,8 @@
             "examples": [
                 "大學",
                 "大學生",
-                "加拿大"
+                "加拿大",
+                "大方　/　generous"
             ]
         }
     },
@@ -654,6 +656,11 @@
                 "開心地　/　happily",
                 "地理　/　geography"
             ]
+        },
+        "第": {
+            "examples": [
+                "這是我六個月裡第三次感冒。"
+            ]
         }
     },
     "dìng": {
@@ -706,7 +713,9 @@
                 "菜單",
                 "孤單",
                 "自己一個人不覺得孤單馬？",
-                "簡單　/　adj. simple, uncomplicated; ordinary (usually in the negative); casual, oversimplified"
+                "簡單　/　adj. simple, uncomplicated; ordinary (usually in the negative); casual, oversimplified",
+                "買單　/　phr. settle the bill, pay the bill",
+                "我只爲自己買單"
             ],
             "simplified": "单"
         }
@@ -899,7 +908,8 @@
     "fāng": {
         "方": {
             "examples": [
-                "方便　/　adj. handy, convenient; appropriate, proper"
+                "方便　/　adj. handy, convenient; appropriate, proper",
+                "大方　/　generous"
             ]
         }
     },
@@ -1409,7 +1419,8 @@
             "examples": [
                 "上海",
                 "我很喜歡上海菜。",
-                "海鮮　/　seafood"
+                "海鮮　/　seafood",
+                "大海　/　n. sea, ocean\u001b[C"
             ]
         }
     },
@@ -1636,7 +1647,8 @@
         "簡": {
             "examples": [
                 "簡單　/　simple",
-                "別緊張，這個手術很簡單。"
+                "別緊張，這個手術很簡單。",
+                "簡歷　/　n. curriculum vitae, CV, resume"
             ],
             "simplified": "简"
         }
@@ -1721,6 +1733,13 @@
                 "京劇"
             ],
             "simplified": "剧"
+        }
+    },
+    "jú": {
+        "橘": {
+            "examples": [
+                "橘色　/　n./adj. orange color"
+            ]
         }
     },
     "jī": {
@@ -2040,7 +2059,8 @@
         "流": {
             "examples": [
                 "流利　/　adj. fluent, fluently",
-                "我想流利地說中文。"
+                "我想流利地說中文。",
+                "流鼻水　/　phr. to have a running nose"
             ]
         }
     },
@@ -2122,6 +2142,12 @@
             "examples": [
                 "巧克力"
             ]
+        },
+        "歷": {
+            "examples": [
+                "簡歷　/　n. curriculum vitae, CV, resume"
+            ],
+            "simplified": "历"
         }
     },
     "lìng": {
@@ -2427,7 +2453,8 @@
         "買": {
             "examples": [
                 "買菜",
-                "買單"
+                "買單",
+                "買單　/　phr. settle the bill, pay the bill"
             ],
             "simplified": "买"
         }
@@ -3422,7 +3449,8 @@
             "examples": [
                 "這個太貴，所以我不買。",
                 "所以",
-                "我不喜歡水，所以我不游泳。"
+                "我不喜歡水，所以我不游泳。",
+                "診所　/　n. clinic"
             ]
         }
     },
@@ -4035,6 +4063,13 @@
             ]
         }
     },
+    "xiá": {
+        "遐": {
+            "examples": [
+                "遐想　/　v./n. daydream, imagine, be lost in wild and fanciful thoughts; imagination, daydreaming"
+            ]
+        }
+    },
     "xiè": {
         "謝": {
             "examples": [
@@ -4434,7 +4469,8 @@
     "yá": {
         "牙": {
             "examples": [
-                "牙齒　/　n. tooth"
+                "牙齒　/　n. tooth",
+                "我的牙齒很疼。"
             ]
         }
     },
@@ -4914,6 +4950,15 @@
             ]
         }
     },
+    "zhěn": {
+        "診": {
+            "examples": [
+                "診所　/　n. clinic",
+                "診所怎麼找？"
+            ],
+            "simplified": "诊"
+        }
+    },
     "zhī": {
         "知": {
             "examples": [
@@ -5114,6 +5159,14 @@
                 "白噪音　/　ruido blanco",
                 "噪聲　/　n. noise",
                 "白噪聲　/　ruido blanco"
+            ]
+        }
+    },
+    "zì": {
+        "自": {
+            "examples": [
+                "自己　/　pro. oneself",
+                "抱歉，我不大方，只爲自己買單"
             ]
         }
     },
