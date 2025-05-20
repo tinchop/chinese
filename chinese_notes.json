@@ -73,7 +73,8 @@
         "白": {
             "examples": [
                 "白天　/　day time",
-                "在冬天白天很短。"
+                "在冬天白天很短。",
+                "蛋白質　/　protein"
             ]
         }
     },
@@ -236,7 +237,9 @@
     "chà": {
         "差": {
             "examples": [
-                "差不多　/　adj./adv. similar; a great majority of; nearly, almost"
+                "差不多　/　adj./adv. similar; a great majority of; nearly, almost",
+                "出差　/　sep-v. be on a business trip",
+                "我討厭陪經理出差。　/　I hate accompanying the manager on business trips."
             ]
         }
     },
@@ -318,7 +321,8 @@
     "chún": {
         "純": {
             "examples": [
-                "純水　/　pure water"
+                "純水　/　pure water",
+                "單純　/　adj./adv. unsophisticated, pure, simple; merely, purely, alone"
             ],
             "simplified": "纯"
         }
@@ -575,6 +579,14 @@
             "simplified": "对"
         }
     },
+    "duī": {
+        "堆": {
+            "examples": [
+                "一堆　/　phr. a pile (of), a heap (of); many, a lot of",
+                "今天一堆鳥事。　/　A lot of annoying problems today."
+            ]
+        }
+    },
     "duō": {
         "多": {
             "examples": [
@@ -622,7 +634,8 @@
         "蛋": {
             "examples": [
                 "雞蛋　/　huevo de gallina",
-                "茶葉蛋　/　egg boiled with tea"
+                "茶葉蛋　/　egg boiled with tea",
+                "蛋白質　/　protein"
             ]
         }
     },
@@ -723,7 +736,8 @@
                 "自己一個人不覺得孤單馬？",
                 "簡單　/　adj. simple, uncomplicated; ordinary (usually in the negative); casual, oversimplified",
                 "買單　/　phr. settle the bill, pay the bill",
-                "我只爲自己買單"
+                "我只爲自己買單",
+                "單純　/　adj./adv. unsophisticated, pure, simple; merely, purely, alone"
             ],
             "simplified": "单"
         }
@@ -3814,6 +3828,13 @@
             ]
         }
     },
+    "tǎng": {
+        "躺": {
+            "examples": [
+                "我的貓在沙發上躺着。　/　My cat is lying on the sofa."
+            ]
+        }
+    },
     "tǎo": {
         "討": {
             "examples": [
@@ -4921,7 +4942,8 @@
         "質": {
             "examples": [
                 "質量　/　quality",
-                "這雙鞋子質量不太好。"
+                "這雙鞋子質量不太好。",
+                "蛋白質　/　protein"
             ],
             "simplified": "质"
         }
