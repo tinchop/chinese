@@ -359,6 +359,13 @@
             "simplified": "车"
         }
     },
+    "chōng": {
+        "充": {
+            "examples": [
+                "充電器　/　n. charger"
+            ]
+        }
+    },
     "chū": {
         "出": {
             "examples": [
@@ -541,9 +548,18 @@
                 "電影",
                 "打電話",
                 "我會給你打電話。",
-                "電子書　/　e-reader"
+                "電子書　/　e-reader",
+                "充電器　/　n. charger"
             ],
             "simplified": "电"
+        }
+    },
+    "diào": {
+        "釣": {
+            "examples": [
+                "釣魚　/　v. to fish, go fishing"
+            ],
+            "simplified": "钓"
         }
     },
     "diǎn": {
@@ -983,7 +999,9 @@
         "過": {
             "examples": [
                 "你今天過得怎麼樣？",
-                "你去過北京嗎？"
+                "你去過北京嗎？",
+                "過期　/　v. to be out of date, stale, be overdue",
+                "這瓶洗衣液已經過期了。"
             ],
             "simplified": "过"
         }
@@ -1661,7 +1679,8 @@
         },
         "蕉": {
             "examples": [
-                "香蕉　/　banana"
+                "香蕉　/　banana",
+                "香蕉樹　/　banana tree"
             ]
         }
     },
@@ -1885,7 +1904,8 @@
     "kè": {
         "克": {
             "examples": [
-                "巧克力"
+                "巧克力",
+                "十五克糖　/　15 grams of sugar"
             ]
         },
         "客": {
@@ -2206,6 +2226,12 @@
         }
     },
     "líng": {
+        "鈴": {
+            "examples": [
+                "馬鈴薯　/　n. potato"
+            ],
+            "simplified": "铃"
+        },
         "零": {
             "examples": [
                 "二〇二四年",
@@ -2335,6 +2361,14 @@
                 "泡麵　/　phr. to soak instant noodles"
             ],
             "simplified": "面"
+        }
+    },
+    "miè": {
+        "滅": {
+            "examples": [
+                "滅火器　/　n. fire extinguisher"
+            ],
+            "simplified": "灭"
         }
     },
     "miǎn": {
@@ -2484,7 +2518,8 @@
                 "塞翁失馬",
                 "騎馬",
                 "騎自行車",
-                "塞翁失馬　/　The old man lost his mare (but it all turned out for the best) -- blessing in disguise"
+                "塞翁失馬　/　The old man lost his mare (but it all turned out for the best) -- blessing in disguise",
+                "馬鈴薯　/　n. potato"
             ],
             "simplified": "马"
         }
@@ -2888,6 +2923,11 @@
         }
     },
     "qì": {
+        "器": {
+            "examples": [
+                "充電器　/　n. charger"
+            ]
+        },
         "氣": {
             "examples": [
                 "天氣",
@@ -2902,6 +2942,7 @@
             "examples": [
                 "其他　/　pro. other, else (referring to other things or people)",
                 "請問，你們有什麼其他飲料？　/　what other drinks do you have?",
+                "其實　/　adv. actually, in fact",
                 "其實　/　adv. actually, in fact"
             ]
         },
@@ -3266,6 +3307,7 @@
     "shí": {
         "實": {
             "examples": [
+                "其實　/　adv. actually, in fact",
                 "其實　/　adv. actually, in fact"
             ],
             "simplified": "实"
@@ -3302,6 +3344,12 @@
         }
     },
     "shù": {
+        "樹": {
+            "examples": [
+                "香蕉樹　/　banana tree"
+            ],
+            "simplified": "树"
+        },
         "術": {
             "examples": [
                 "手術　/　n. surgical operation, operation",
@@ -3451,6 +3499,11 @@
         }
     },
     "shǔ": {
+        "薯": {
+            "examples": [
+                "馬鈴薯　/　n. potato"
+            ]
+        },
         "鼠": {
             "examples": [
                 "老鼠　/　mouse",
@@ -3868,6 +3921,12 @@
         }
     },
     "wàng": {
+        "忘": {
+            "examples": [
+                "忘了　/　v. forgot, have forgotten; forget",
+                "我忘了買衛生紙。"
+            ]
+        },
         "望": {
             "examples": [
                 "希望",
@@ -4167,7 +4226,8 @@
         },
         "香": {
             "examples": [
-                "香蕉　/　banana"
+                "香蕉　/　banana",
+                "香蕉樹　/　banana tree"
             ]
         }
     },
@@ -4403,7 +4463,9 @@
                 "洗手間",
                 "洗手",
                 "洗車",
-                "今天我不想洗衣服。"
+                "今天我不想洗衣服。",
+                "洗衣液　/　n. laundry detergent",
+                "一袋洗衣液"
             ]
         }
     },
@@ -4561,6 +4623,11 @@
                 "作業　/　homework"
             ],
             "simplified": "业"
+        },
+        "液": {
+            "examples": [
+                "洗衣液　/　n. laundry detergent"
+            ]
         }
     },
     "yì": {
@@ -4606,6 +4673,13 @@
         }
     },
     "yíng": {
+        "營": {
+            "examples": [
+                "營養　/　nutrition, nutritious",
+                "我們生病的時候會喝魚湯，因爲魚很營養。"
+            ],
+            "simplified": "营"
+        },
         "迎": {
             "examples": [
                 "歡迎",
@@ -4679,6 +4753,12 @@
             "examples": [
                 "瑜伽　/　n. yoga"
             ]
+        },
+        "魚": {
+            "examples": [
+                "釣魚　/　v. to fish, go fishing"
+            ],
+            "simplified": "鱼"
         }
     },
     "yún": {
@@ -4766,6 +4846,14 @@
             "examples": [
                 "眼睛　/　eye"
             ]
+        }
+    },
+    "yǎng": {
+        "養": {
+            "examples": [
+                "營養　/　nutrition, nutritious"
+            ],
+            "simplified": "养"
         }
     },
     "yǐ": {
