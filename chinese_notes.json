@@ -56,7 +56,9 @@
         "報": {
             "examples": [
                 "報紙",
-                "你看了今天的報紙嗎？"
+                "你看了今天的報紙嗎？",
+                "預報　/　v. predict, forecast",
+                "天氣預報"
             ],
             "simplified": "报"
         },
@@ -392,7 +394,9 @@
                 "生產力　／　production",
                 "有生產力　／　productive",
                 "祝你有生產力的一天。",
-                "今天是有生產力的一天。"
+                "今天是有生產力的一天。",
+                "產品　/　n. product",
+                "不動產　/　n. real estate, immovable property"
             ],
             "simplified": "产"
         }
@@ -712,7 +716,8 @@
     "dòng": {
         "動": {
             "examples": [
-                "運動"
+                "運動",
+                "不動產　/　n. real estate, immovable property"
             ],
             "simplified": "动"
         }
@@ -2797,7 +2802,8 @@
     "pǐn": {
         "品": {
             "examples": [
-                "作品　/　n. works (of art)"
+                "作品　/　n. works (of art)",
+                "產品　/　n. product"
             ]
         }
     },
@@ -4744,6 +4750,13 @@
             "examples": [
                 "體育館"
             ]
+        },
+        "預": {
+            "examples": [
+                "預報　/　v. predict, forecast",
+                "天氣預報　/　weather forecast"
+            ],
+            "simplified": "预"
         }
     },
     "yùn": {
